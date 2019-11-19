@@ -1,0 +1,1124 @@
+Make,Model,Year,Engine Fuel Type,Engine HP,Engine Cylinders,Transmission Type,Driven_Wheels,Number of Doors,Market Category,Vehicle Size,Vehicle Style,highway MPG,city mpg,Popularity,MSRP
+Chevrolet,Astro Cargo,2003,regular unleaded,190,6,AUTOMATIC,rear wheel drive,3,,Large,Cargo Minivan,21,15,1385,22050
+Chevrolet,Astro Cargo,2003,regular unleaded,190,6,AUTOMATIC,all wheel drive,3,,Large,Cargo Minivan,18,14,1385,24450
+Chevrolet,Astro Cargo,2004,regular unleaded,190,6,AUTOMATIC,all wheel drive,3,,Large,Cargo Minivan,18,14,1385,25195
+Chevrolet,Astro Cargo,2004,regular unleaded,190,6,AUTOMATIC,rear wheel drive,3,,Large,Cargo Minivan,19,14,1385,22695
+Chevrolet,Astro Cargo,2005,regular unleaded,190,6,AUTOMATIC,rear wheel drive,3,,Large,Cargo Minivan,20,15,1385,22930
+Chevrolet,Astro Cargo,2005,regular unleaded,190,6,AUTOMATIC,all wheel drive,3,,Large,Cargo Minivan,18,14,1385,25430
+Chevrolet,Astro,2003,regular unleaded,190,6,AUTOMATIC,all wheel drive,3,,Large,Passenger Minivan,16,12,1385,25690
+Chevrolet,Astro,2003,regular unleaded,190,6,AUTOMATIC,rear wheel drive,3,,Large,Passenger Minivan,19,14,1385,23690
+,Astro,2004,regular unleaded,190,6,AUTOMATIC,all wheel drive,3,,Large,Passenger Minivan,16,12,1385,26195
+,Astro,2004,regular unleaded,190,6,AUTOMATIC,rear wheel drive,3,,Large,Passenger Minivan,19,14,1385,24195
+,Astro,2005,regular unleaded,190,6,AUTOMATIC,rear wheel drive,3,,Large,Passenger Minivan,20,14,1385,24430
+,Astro,2005,regular unleaded,190,6,AUTOMATIC,all wheel drive,3,,Large,Passenger Minivan,16,12,1385,26430
+,Avalanche,2010,flex-fuel (unleaded/E85),,8,AUTOMATIC,rear wheel drive,4,"Crossover,Flex Fuel",Large,Crew Cab Pickup,21,15,1385,45815
+,Avalanche,2010,flex-fuel (unleaded/E85),,8,AUTOMATIC,rear wheel drive,4,"Crossover,Flex Fuel",Large,Crew Cab Pickup,21,15,1385,35725
+,Avalanche,2010,flex-fuel (unleaded/E85),,8,AUTOMATIC,rear wheel drive,4,"Crossover,Flex Fuel",Large,Crew Cab Pickup,21,15,1385,38830
+,Avalanche,2011,flex-fuel (unleaded/E85),320,8,AUTOMATIC,rear wheel drive,4,"Crossover,Flex Fuel",Large,Crew Cab Pickup,21,15,1385,39405
+,Avalanche,2011,flex-fuel (unleaded/E85),320,8,AUTOMATIC,rear wheel drive,4,"Crossover,Flex Fuel",Large,Crew Cab Pickup,21,15,1385,46195
+,Avalanche,2011,flex-fuel (unleaded/E85),320,8,AUTOMATIC,four wheel drive,4,"Crossover,Flex Fuel",Large,Crew Cab Pickup,21,15,1385,39350
+,Avalanche,2011,flex-fuel (unleaded/E85),320,8,AUTOMATIC,four wheel drive,4,"Crossover,Flex Fuel",Large,Crew Cab Pickup,21,15,1385,49500
+,Avalanche,2011,flex-fuel (unleaded/E85),320,8,AUTOMATIC,four wheel drive,4,"Crossover,Flex Fuel",Large,Crew Cab Pickup,21,15,1385,42455
+,Avalanche,2011,flex-fuel (unleaded/E85),320,8,AUTOMATIC,rear wheel drive,4,"Crossover,Flex Fuel",Large,Crew Cab Pickup,21,15,1385,36300
+,Avalanche,2012,flex-fuel (unleaded/E85),320,8,AUTOMATIC,rear wheel drive,4,"Crossover,Flex Fuel",Large,Crew Cab Pickup,21,15,1385,40195
+,Avalanche,2012,flex-fuel (unleaded/E85),320,8,AUTOMATIC,four wheel drive,4,"Crossover,Flex Fuel",Large,Crew Cab Pickup,21,15,1385,43245
+,Avalanche,2012,flex-fuel (unleaded/E85),320,8,AUTOMATIC,rear wheel drive,4,"Crossover,Flex Fuel",Large,Crew Cab Pickup,21,15,1385,47000
+,Avalanche,2012,flex-fuel (unleaded/E85),320,8,AUTOMATIC,four wheel drive,4,"Crossover,Flex Fuel",Large,Crew Cab Pickup,21,15,1385,39850
+,Avalanche,2012,flex-fuel (unleaded/E85),320,8,AUTOMATIC,rear wheel drive,4,"Crossover,Flex Fuel",Large,Crew Cab Pickup,21,15,1385,36800
+,Avalanche,2012,flex-fuel (unleaded/E85),320,8,AUTOMATIC,four wheel drive,4,"Crossover,Flex Fuel",Large,Crew Cab Pickup,21,15,1385,50305
+,Aveo,2009,regular unleaded,107,4,MANUAL,front wheel drive,4,Hatchback,Compact,4dr Hatchback,34,27,1385,11965
+,Aveo,2009,regular unleaded,107,4,MANUAL,front wheel drive,4,,Compact,Sedan,34,27,1385,15365
+,Aveo,2009,regular unleaded,107,4,MANUAL,front wheel drive,4,Hatchback,Compact,4dr Hatchback,34,27,1385,14100
+,Aveo,2009,regular unleaded,107,4,MANUAL,front wheel drive,4,,Compact,Sedan,34,27,1385,11965
+,Aveo,2009,regular unleaded,107,4,MANUAL,front wheel drive,4,,Compact,Sedan,34,27,1385,14100
+,Aveo,2009,regular unleaded,107,4,MANUAL,front wheel drive,4,Hatchback,Compact,4dr Hatchback,34,27,1385,15365
+,Aveo,2010,regular unleaded,108,4,MANUAL,front wheel drive,4,Hatchback,Compact,4dr Hatchback,35,27,1385,15365
+,Aveo,2010,regular unleaded,108,4,MANUAL,front wheel drive,4,,Compact,Sedan,35,27,1385,11965
+,Aveo,2010,regular unleaded,108,4,MANUAL,front wheel drive,4,,Compact,Sedan,35,27,1385,14100
+,Aveo,2010,regular unleaded,108,4,MANUAL,front wheel drive,4,Hatchback,Compact,4dr Hatchback,35,27,1385,12115
+,Aveo,2010,regular unleaded,108,4,MANUAL,front wheel drive,4,,Compact,Sedan,35,27,1385,15365
+,Aveo,2010,regular unleaded,108,4,MANUAL,front wheel drive,4,Hatchback,Compact,4dr Hatchback,35,27,1385,14250
+,Aveo,2011,regular unleaded,108,4,MANUAL,front wheel drive,4,Hatchback,Compact,4dr Hatchback,35,27,1385,15365
+,Aveo,2011,regular unleaded,108,4,MANUAL,front wheel drive,4,Hatchback,Compact,4dr Hatchback,35,27,1385,12115
+,Aveo,2011,regular unleaded,108,4,MANUAL,front wheel drive,4,,Compact,Sedan,35,27,1385,11965
+,Aveo,2011,regular unleaded,108,4,MANUAL,front wheel drive,4,Hatchback,Compact,4dr Hatchback,35,27,1385,14250
+,Aveo,2011,regular unleaded,108,4,MANUAL,front wheel drive,4,,Compact,Sedan,35,27,1385,15365
+,Aveo,2011,regular unleaded,108,4,MANUAL,front wheel drive,4,,Compact,Sedan,35,27,1385,14100
+,Beretta,1994,regular unleaded,170,4,MANUAL,front wheel drive,2,Performance,Compact,Coupe,27,18,1385,2000
+,Beretta,1994,regular unleaded,120,4,MANUAL,front wheel drive,2,,Compact,Coupe,31,22,1385,2000
+,Beretta,1995,regular unleaded,120,4,MANUAL,front wheel drive,2,,Midsize,Coupe,33,21,1385,2000
+,Beretta,1995,regular unleaded,160,6,AUTOMATIC,front wheel drive,2,Performance,Midsize,Coupe,27,18,1385,2000
+,Beretta,1996,regular unleaded,120,4,MANUAL,front wheel drive,2,,Midsize,Coupe,33,22,1385,2000
+,Beretta,1996,regular unleaded,155,6,AUTOMATIC,front wheel drive,2,Performance,Midsize,Coupe,27,18,1385,2000
+,Black Diamond Avalanche,2013,flex-fuel (unleaded/E85),320,8,AUTOMATIC,four wheel drive,4,"Crossover,Flex Fuel",Large,Crew Cab Pickup,21,15,1385,39030
+,Black Diamond Avalanche,2013,flex-fuel (unleaded/E85),320,8,AUTOMATIC,four wheel drive,4,"Crossover,Flex Fuel",Large,Crew Cab Pickup,21,15,1385,41675
+,Black Diamond Avalanche,2013,flex-fuel (unleaded/E85),320,8,AUTOMATIC,rear wheel drive,4,"Crossover,Flex Fuel",Large,Crew Cab Pickup,21,15,1385,44580
+,Black Diamond Avalanche,2013,flex-fuel (unleaded/E85),320,8,AUTOMATIC,rear wheel drive,4,"Crossover,Flex Fuel",Large,Crew Cab Pickup,21,15,1385,38625
+,Black Diamond Avalanche,2013,flex-fuel (unleaded/E85),320,8,AUTOMATIC,four wheel drive,4,"Crossover,Flex Fuel",Large,Crew Cab Pickup,21,15,1385,47885
+,Black Diamond Avalanche,2013,flex-fuel (unleaded/E85),320,8,AUTOMATIC,rear wheel drive,4,"Crossover,Flex Fuel",Large,Crew Cab Pickup,21,15,1385,35980
+,Blazer,2003,regular unleaded,190,6,MANUAL,rear wheel drive,2,,Compact,2dr SUV,20,14,1385,20745
+,Blazer,2003,regular unleaded,190,6,MANUAL,four wheel drive,2,,Compact,2dr SUV,18,13,1385,23745
+,Blazer,2003,regular unleaded,190,6,AUTOMATIC,rear wheel drive,4,,Midsize,4dr SUV,21,15,1385,24695
+,Blazer,2003,regular unleaded,190,6,AUTOMATIC,four wheel drive,4,,Midsize,4dr SUV,17,13,1385,26695
+,Blazer,2003,regular unleaded,,6,MANUAL,rear wheel drive,2,,Compact,2dr SUV,20,14,1385,22845
+,Blazer,2004,regular unleaded,,6,AUTOMATIC,rear wheel drive,4,,Midsize,4dr SUV,19,14,1385,25230
+,Blazer,2004,regular unleaded,,6,AUTOMATIC,four wheel drive,4,,Midsize,4dr SUV,17,13,1385,27230
+,Blazer,2004,regular unleaded,,6,MANUAL,four wheel drive,2,,Compact,2dr SUV,18,13,1385,24055
+,Blazer,2004,regular unleaded,,6,MANUAL,rear wheel drive,2,,Compact,2dr SUV,19,14,1385,23255
+,Blazer,2004,regular unleaded,190,6,MANUAL,rear wheel drive,2,,Compact,2dr SUV,19,14,1385,21055
+,Blazer,2005,regular unleaded,190,6,MANUAL,four wheel drive,2,,Compact,2dr SUV,17,13,1385,24305
+,Blazer,2005,regular unleaded,190,6,MANUAL,rear wheel drive,2,,Compact,2dr SUV,20,14,1385,21305
+,Blazer,2005,regular unleaded,190,6,AUTOMATIC,rear wheel drive,4,,Midsize,4dr SUV,20,15,1385,25480
+,Blazer,2005,regular unleaded,190,6,AUTOMATIC,four wheel drive,4,,Midsize,4dr SUV,18,14,1385,27480
+,Bolt EV,2017,electric,200,,DIRECT_DRIVE,front wheel drive,4,Hatchback,Compact,4dr Hatchback,110,128,1385,40905
+,Bolt EV,2017,electric,200,,DIRECT_DRIVE,front wheel drive,4,Hatchback,Compact,4dr Hatchback,110,128,1385,36620
+,Camaro,2015,regular unleaded,323,6,MANUAL,rear wheel drive,2,Performance,Midsize,Coupe,28,17,1385,29205
+,Camaro,2015,regular unleaded,323,6,MANUAL,rear wheel drive,2,Performance,Midsize,Convertible,28,17,1385,31205
+,Camaro,2015,premium unleaded (required),580,8,MANUAL,rear wheel drive,2,"Factory Tuner,High-Performance",Midsize,Coupe,19,14,1385,55505
+,Camaro,2015,premium unleaded (recommended),426,8,MANUAL,rear wheel drive,2,High-Performance,Midsize,Convertible,24,16,1385,42405
+,Camaro,2015,premium unleaded (recommended),426,8,MANUAL,rear wheel drive,2,High-Performance,Midsize,Convertible,24,16,1385,39505
+,Camaro,2015,premium unleaded (recommended),426,8,MANUAL,rear wheel drive,2,High-Performance,Midsize,Coupe,24,16,1385,33505
+,Camaro,2015,premium unleaded (recommended),426,8,MANUAL,rear wheel drive,2,High-Performance,Midsize,Coupe,24,16,1385,37305
+,Camaro,2015,regular unleaded,323,6,MANUAL,rear wheel drive,2,Performance,Midsize,Coupe,28,17,1385,26005
+,Camaro,2015,regular unleaded,323,6,MANUAL,rear wheel drive,2,Performance,Midsize,Convertible,28,17,1385,35105
+,Camaro,2015,premium unleaded (required),505,8,MANUAL,rear wheel drive,2,"Factory Tuner,High-Performance",Midsize,Coupe,19,13,1385,72305
+,Camaro,2015,regular unleaded,323,6,MANUAL,rear wheel drive,2,,Midsize,Coupe,28,17,1385,23705
+,Camaro,2015,regular unleaded,323,6,AUTOMATIC,rear wheel drive,2,,Midsize,Coupe,30,19,1385,25145
+,Camaro,2015,premium unleaded (required),580,8,MANUAL,rear wheel drive,2,"Factory Tuner,High-Performance",Midsize,Convertible,19,14,1385,60705
+,Camaro,2016,premium unleaded (recommended),455,8,MANUAL,rear wheel drive,2,High-Performance,Midsize,Convertible,25,16,1385,48300
+,Camaro,2016,premium unleaded (recommended),275,4,MANUAL,rear wheel drive,2,Performance,Midsize,Convertible,30,21,1385,36800
+,Camaro,2016,premium unleaded (recommended),455,8,MANUAL,rear wheel drive,2,High-Performance,Midsize,Coupe,25,16,1385,41300
+,Camaro,2016,premium unleaded (recommended),275,4,MANUAL,rear wheel drive,2,Performance,Midsize,Convertible,30,21,1385,32700
+,Camaro,2016,premium unleaded (recommended),275,4,MANUAL,rear wheel drive,2,Performance,Midsize,Coupe,30,21,1385,25700
+,Camaro,2016,premium unleaded (recommended),275,4,MANUAL,rear wheel drive,2,Performance,Midsize,Coupe,30,21,1385,29800
+,Camaro,2016,premium unleaded (recommended),455,8,MANUAL,rear wheel drive,2,High-Performance,Midsize,Convertible,25,16,1385,43300
+,Camaro,2016,premium unleaded (recommended),455,8,MANUAL,rear wheel drive,2,High-Performance,Midsize,Coupe,25,16,1385,36300
+,Camaro,2017,premium unleaded (recommended),455,8,MANUAL,rear wheel drive,2,High-Performance,Midsize,Convertible,25,16,1385,42905
+,Camaro,2017,premium unleaded (recommended),455,8,MANUAL,rear wheel drive,2,High-Performance,Midsize,Convertible,25,16,1385,47905
+,Camaro,2017,premium unleaded (recommended),275,4,MANUAL,rear wheel drive,2,Performance,Midsize,Convertible,30,20,1385,35605
+,Camaro,2017,premium unleaded (recommended),275,4,AUTOMATIC,rear wheel drive,2,Performance,Midsize,Convertible,31,22,1385,32600
+,Camaro,2017,premium unleaded (recommended),455,8,MANUAL,rear wheel drive,2,High-Performance,Midsize,Coupe,25,16,1385,41905
+,Camaro,2017,premium unleaded (recommended),455,8,MANUAL,rear wheel drive,2,High-Performance,Midsize,Coupe,25,16,1385,36905
+,Camaro,2017,premium unleaded (recommended),275,4,MANUAL,rear wheel drive,2,Performance,Midsize,Coupe,30,20,1385,30405
+,Camaro,2017,premium unleaded (recommended),275,4,AUTOMATIC,rear wheel drive,2,Performance,Midsize,Coupe,31,22,1385,26600
+,Camaro,2017,premium unleaded (recommended),275,4,MANUAL,rear wheel drive,2,Performance,Midsize,Coupe,30,20,1385,25905
+,Camaro,2017,premium unleaded (required),650,8,MANUAL,rear wheel drive,2,"Factory Tuner,High-Performance",Midsize,Coupe,20,14,1385,61140
+,Camaro,2017,premium unleaded (recommended),275,4,MANUAL,rear wheel drive,2,Performance,Midsize,Convertible,30,20,1385,31905
+,Camaro,2017,premium unleaded (required),650,8,MANUAL,rear wheel drive,2,"Factory Tuner,High-Performance",Midsize,Convertible,20,14,1385,67140
+,Caprice,1994,regular unleaded,260,8,AUTOMATIC,rear wheel drive,4,,Large,Wagon,23,15,1385,2000
+,Caprice,1994,regular unleaded,200,8,AUTOMATIC,rear wheel drive,4,,Large,Sedan,24,16,1385,2000
+,Caprice,1994,regular unleaded,200,8,AUTOMATIC,rear wheel drive,4,,Large,Sedan,24,16,1385,2000
+,Caprice,1995,regular unleaded,200,8,AUTOMATIC,rear wheel drive,4,,Large,Sedan,24,16,1385,2000
+,Caprice,1995,regular unleaded,260,8,AUTOMATIC,rear wheel drive,4,,Large,Wagon,23,15,1385,2000
+,Caprice,1996,regular unleaded,260,8,AUTOMATIC,rear wheel drive,4,,Large,Wagon,24,15,1385,2000
+,Caprice,1996,regular unleaded,200,8,AUTOMATIC,rear wheel drive,4,,Large,Sedan,24,16,1385,2000
+,Captiva Sport,2013,flex-fuel (unleaded/E85),180,4,AUTOMATIC,front wheel drive,4,"Crossover,Flex Fuel",Midsize,4dr SUV,28,20,1385,24155
+,Captiva Sport,2013,flex-fuel (unleaded/E85),180,4,AUTOMATIC,front wheel drive,4,"Crossover,Flex Fuel",Midsize,4dr SUV,28,20,1385,29615
+,Captiva Sport,2013,flex-fuel (unleaded/E85),180,4,AUTOMATIC,front wheel drive,4,"Crossover,Flex Fuel",Midsize,4dr SUV,28,20,1385,25770
+,Captiva Sport,2013,flex-fuel (unleaded/E85),180,4,AUTOMATIC,front wheel drive,4,"Crossover,Flex Fuel",Midsize,4dr SUV,28,20,1385,24940
+,Captiva Sport,2014,flex-fuel (unleaded/E85),180,4,AUTOMATIC,front wheel drive,4,"Crossover,Flex Fuel",Midsize,4dr SUV,28,20,1385,25145
+,Captiva Sport,2014,flex-fuel (unleaded/E85),180,4,AUTOMATIC,front wheel drive,4,"Crossover,Flex Fuel",Midsize,4dr SUV,28,20,1385,24360
+,Captiva Sport,2014,flex-fuel (unleaded/E85),180,4,AUTOMATIC,front wheel drive,4,"Crossover,Flex Fuel",Midsize,4dr SUV,28,20,1385,25975
+,Captiva Sport,2014,flex-fuel (unleaded/E85),180,4,AUTOMATIC,front wheel drive,4,"Crossover,Flex Fuel",Midsize,4dr SUV,28,20,1385,29495
+,Captiva Sport,2015,flex-fuel (unleaded/E85),180,4,AUTOMATIC,front wheel drive,4,"Crossover,Flex Fuel",Midsize,4dr SUV,28,20,1385,25985
+,Captiva Sport,2015,flex-fuel (unleaded/E85),180,4,AUTOMATIC,front wheel drive,4,"Crossover,Flex Fuel",Midsize,4dr SUV,28,20,1385,29505
+,Captiva Sport,2015,flex-fuel (unleaded/E85),180,4,AUTOMATIC,front wheel drive,4,"Crossover,Flex Fuel",Midsize,4dr SUV,28,20,1385,25155
+,Captiva Sport,2015,flex-fuel (unleaded/E85),180,4,AUTOMATIC,front wheel drive,4,"Crossover,Flex Fuel",Midsize,4dr SUV,28,20,1385,24370
+,Cavalier,2003,regular unleaded,140,4,MANUAL,front wheel drive,4,,Compact,Sedan,30,22,1385,14230
+,Cavalier,2003,regular unleaded,140,4,MANUAL,front wheel drive,2,,Compact,Coupe,,22,1385,14030
+,Cavalier,2003,regular unleaded,140,4,MANUAL,front wheel drive,4,,Compact,Sedan,,22,1385,15730
+,Cavalier,2003,regular unleaded,140,4,MANUAL,front wheel drive,4,,Compact,Sedan,,22,1385,17030
+Chevrolet,Cavalier,2003,regular unleaded,140,4,MANUAL,front wheel drive,2,,Compact,Coupe,,22,1385,16830
+Chevrolet,Cavalier,2003,regular unleaded,140,4,MANUAL,front wheel drive,2,,Compact,Coupe,,22,1385,15530
+Chevrolet,Cavalier,2004,regular unleaded,,4,MANUAL,front wheel drive,2,,Compact,Coupe,,23,1385,17410
+Chevrolet,Cavalier,2004,regular unleaded,,4,MANUAL,front wheel drive,4,,Compact,Sedan,,23,1385,16105
+Chevrolet,Cavalier,2004,regular unleaded,,4,MANUAL,front wheel drive,4,,Compact,Sedan,,23,1385,14435
+Chevrolet,Cavalier,2004,regular unleaded,,4,MANUAL,front wheel drive,2,,Compact,Coupe,,23,1385,15905
+Chevrolet,Cavalier,2004,regular unleaded,,4,MANUAL,front wheel drive,2,,Compact,Coupe,,23,1385,14235
+Chevrolet,Cavalier,2004,regular unleaded,,4,MANUAL,front wheel drive,4,,Compact,Sedan,,23,1385,17610
+Chevrolet,Cavalier,2004,regular unleaded,,4,MANUAL,front wheel drive,2,,Compact,Coupe,,23,1385,10135
+Chevrolet,Cavalier,2005,regular unleaded,,4,MANUAL,front wheel drive,4,,Compact,Sedan,,23,1385,16290
+Chevrolet,Cavalier,2005,regular unleaded,,4,MANUAL,front wheel drive,4,,Compact,Sedan,,23,1385,14610
+Chevrolet,Cavalier,2005,regular unleaded,,4,MANUAL,front wheel drive,2,,Compact,Coupe,,23,1385,16090
+Chevrolet,Cavalier,2005,regular unleaded,,4,MANUAL,front wheel drive,2,,Compact,Coupe,,23,1385,17510
+Chevrolet,Cavalier,2005,regular unleaded,,4,MANUAL,front wheel drive,4,,Compact,Sedan,,23,1385,17710
+Chevrolet,Cavalier,2005,regular unleaded,140,4,MANUAL,front wheel drive,2,,Compact,Coupe,,23,1385,14410
+Chevrolet,Cavalier,2005,regular unleaded,140,4,MANUAL,front wheel drive,2,,Compact,Coupe,,23,1385,10325
+Chevrolet,Celebrity,1990,regular unleaded,135,6,AUTOMATIC,front wheel drive,4,,Midsize,Wagon,,17,1385,2000
+Chevrolet,Celebrity,1990,regular unleaded,110,4,AUTOMATIC,front wheel drive,4,,Midsize,Wagon,,20,1385,2000
+Chevrolet,Chevy Van,1996,regular unleaded,195,6,AUTOMATIC,rear wheel drive,3,,Midsize,Cargo Van,,14,1385,2000
+Chevrolet,Chevy Van,1996,regular unleaded,195,6,AUTOMATIC,rear wheel drive,3,,Midsize,Cargo Van,,14,1385,2000
+Chevrolet,Chevy Van,1996,regular unleaded,195,6,AUTOMATIC,rear wheel drive,3,,Large,Cargo Van,,14,1385,2000
+Chevrolet,Chevy Van,1997,regular unleaded,200,,AUTOMATIC,rear wheel drive,3,,Large,Cargo Van,,14,1385,2000
+Chevrolet,Chevy Van,1997,regular unleaded,200,,AUTOMATIC,rear wheel drive,3,,Midsize,Cargo Van,,14,1385,2000
+Chevrolet,Chevy Van,1997,regular unleaded,200,,AUTOMATIC,rear wheel drive,3,,Midsize,Cargo Van,,14,1385,2000
+Chevrolet,Chevy Van,1998,regular unleaded,200,,AUTOMATIC,rear wheel drive,3,,Midsize,Cargo Van,,13,1385,2050
+Chevrolet,Chevy Van,1998,regular unleaded,200,,AUTOMATIC,rear wheel drive,3,,Midsize,Cargo Van,,13,1385,2052
+Chevrolet,Chevy Van,1998,regular unleaded,200,,AUTOMATIC,rear wheel drive,3,,Large,Cargo Van,18,13,1385,2116
+Chevrolet,City Express,2015,regular unleaded,131,,AUTOMATIC,front wheel drive,4,,Compact,Cargo Minivan,26,24,1385,23515
+Chevrolet,City Express,2015,regular unleaded,131,,AUTOMATIC,front wheel drive,4,,Compact,Cargo Minivan,26,24,1385,21955
+Chevrolet,City Express,2016,regular unleaded,131,,AUTOMATIC,front wheel drive,4,,Compact,Cargo Minivan,26,24,1385,23515
+Chevrolet,City Express,2016,regular unleaded,131,4,AUTOMATIC,front wheel drive,4,,Compact,Cargo Minivan,26,24,1385,21955
+Chevrolet,City Express,2017,regular unleaded,131,4,AUTOMATIC,front wheel drive,4,,Compact,Cargo Minivan,26,24,1385,22405
+Chevrolet,City Express,2017,regular unleaded,131,4,AUTOMATIC,front wheel drive,4,,Compact,Cargo Minivan,26,24,1385,23515
+Chevrolet,C/K 1500 Series,1997,regular unleaded,200,6,MANUAL,four wheel drive,2,,Large,Regular Cab Pickup,18,14,1385,2949
+Chevrolet,C/K 1500 Series,1997,regular unleaded,200,6,MANUAL,four wheel drive,2,,Large,Regular Cab Pickup,18,14,1385,2992
+Chevrolet,C/K 1500 Series,1997,regular unleaded,200,6,MANUAL,rear wheel drive,2,,Large,Regular Cab Pickup,20,15,1385,2529
+Chevrolet,C/K 1500 Series,1997,regular unleaded,200,6,MANUAL,four wheel drive,2,,Large,Regular Cab Pickup,18,14,1385,2580
+Chevrolet,C/K 1500 Series,1997,regular unleaded,230,8,MANUAL,rear wheel drive,2,,Large,Extended Cab Pickup,19,14,1385,2668
+Chevrolet,C/K 1500 Series,1997,regular unleaded,200,6,MANUAL,four wheel drive,2,,Large,Regular Cab Pickup,18,14,1385,2583
+Chevrolet,C/K 1500 Series,1997,regular unleaded,200,6,MANUAL,rear wheel drive,2,,Large,Extended Cab Pickup,20,15,1385,2637
+Chevrolet,C/K 1500 Series,1997,regular unleaded,200,6,MANUAL,rear wheel drive,2,,Large,Extended Cab Pickup,20,15,1385,2517
+Chevrolet,C/K 1500 Series,1997,regular unleaded,230,8,MANUAL,four wheel drive,2,,Large,Extended Cab Pickup,17,11,1385,3046
+Chevrolet,C/K 1500 Series,1997,regular unleaded,200,6,MANUAL,rear wheel drive,2,,Large,Regular Cab Pickup,20,15,1385,2265
+Chevrolet,C/K 1500 Series,1997,regular unleaded,200,6,MANUAL,four wheel drive,2,,Large,Extended Cab Pickup,18,14,1385,3046
+Chevrolet,C/K 1500 Series,1997,regular unleaded,200,6,MANUAL,rear wheel drive,2,,Large,Extended Cab Pickup,20,15,1385,2896
+Chevrolet,C/K 1500 Series,1997,regular unleaded,230,8,MANUAL,rear wheel drive,2,,Large,Extended Cab Pickup,19,14,1385,2891
+Chevrolet,C/K 1500 Series,1997,regular unleaded,200,6,MANUAL,rear wheel drive,2,,Large,Extended Cab Pickup,20,15,1385,2713
+Chevrolet,C/K 1500 Series,1997,regular unleaded,230,8,MANUAL,four wheel drive,2,,Large,Extended Cab Pickup,17,11,1385,3120
+Chevrolet,C/K 1500 Series,1997,regular unleaded,200,6,MANUAL,four wheel drive,2,,Large,Regular Cab Pickup,18,14,1385,2653
+Chevrolet,C/K 1500 Series,1997,regular unleaded,200,6,MANUAL,four wheel drive,2,,Large,Regular Cab Pickup,18,14,1385,2541
+Chevrolet,C/K 1500 Series,1997,regular unleaded,200,6,MANUAL,rear wheel drive,2,,Large,Regular Cab Pickup,20,15,1385,2486
+Chevrolet,C/K 1500 Series,1997,regular unleaded,200,6,MANUAL,rear wheel drive,2,,Large,Regular Cab Pickup,20,15,1385,2268
+Chevrolet,C/K 1500 Series,1997,regular unleaded,200,6,MANUAL,rear wheel drive,2,,Large,Regular Cab Pickup,20,15,1385,2207
+Chevrolet,C/K 1500 Series,1997,regular unleaded,200,6,MANUAL,four wheel drive,2,,Large,Extended Cab Pickup,18,14,1385,2925
+Chevrolet,C/K 1500 Series,1997,regular unleaded,200,6,MANUAL,rear wheel drive,2,,Large,Regular Cab Pickup,20,15,1385,2242
+Chevrolet,C/K 1500 Series,1997,regular unleaded,200,6,MANUAL,rear wheel drive,2,,Large,Regular Cab Pickup,20,15,1385,2554
+Chevrolet,C/K 1500 Series,1997,regular unleaded,200,6,MANUAL,four wheel drive,2,,Large,Extended Cab Pickup,18,14,1385,3088
+Chevrolet,C/K 1500 Series,1997,regular unleaded,200,6,MANUAL,four wheel drive,2,,Large,Regular Cab Pickup,18,14,1385,2749
+Chevrolet,C/K 1500 Series,1997,regular unleaded,200,6,MANUAL,four wheel drive,2,,Large,Extended Cab Pickup,18,14,1385,3220
+Chevrolet,C/K 1500 Series,1997,regular unleaded,200,6,MANUAL,four wheel drive,2,,Large,Regular Cab Pickup,18,14,1385,2996
+Chevrolet,C/K 1500 Series,1997,regular unleaded,200,6,MANUAL,rear wheel drive,2,,Large,Regular Cab Pickup,20,15,1385,2366
+Chevrolet,C/K 1500 Series,1998,regular unleaded,200,6,MANUAL,four wheel drive,2,,Large,Extended Cab Pickup,19,14,1385,3265
+Chevrolet,C/K 1500 Series,1998,regular unleaded,230,8,MANUAL,four wheel drive,2,,Large,Extended Cab Pickup,17,12,1385,3676
+Chevrolet,C/K 1500 Series,1998,regular unleaded,200,6,MANUAL,four wheel drive,2,,Large,Extended Cab Pickup,19,14,1385,3427
+Chevrolet,C/K 1500 Series,1998,regular unleaded,230,8,MANUAL,four wheel drive,2,,Large,Extended Cab Pickup,17,12,1385,3470
+Chevrolet,C/K 1500 Series,1998,regular unleaded,200,6,MANUAL,rear wheel drive,2,,Large,Regular Cab Pickup,21,16,1385,2898
+Chevrolet,C/K 1500 Series,1998,regular unleaded,200,6,MANUAL,four wheel drive,2,,Large,Regular Cab Pickup,19,14,1385,2920
+Chevrolet,C/K 1500 Series,1998,regular unleaded,200,6,MANUAL,rear wheel drive,2,,Large,Regular Cab Pickup,21,16,1385,2580
+Chevrolet,C/K 1500 Series,1998,regular unleaded,230,8,MANUAL,rear wheel drive,2,,Large,Extended Cab Pickup,18,13,1385,3357
+Chevrolet,C/K 1500 Series,1998,regular unleaded,200,6,MANUAL,rear wheel drive,2,,Large,Extended Cab Pickup,21,16,1385,2996
+Chevrolet,C/K 1500 Series,1998,regular unleaded,200,6,MANUAL,four wheel drive,2,,Large,Regular Cab Pickup,19,14,1385,2883
+Chevrolet,C/K 1500 Series,1998,regular unleaded,200,6,MANUAL,rear wheel drive,2,,Large,Extended Cab Pickup,21,16,1385,3094
+Chevrolet,C/K 1500 Series,1998,regular unleaded,200,6,MANUAL,rear wheel drive,2,,Large,Regular Cab Pickup,21,16,1385,2885
+Chevrolet,C/K 1500 Series,1998,regular unleaded,230,8,MANUAL,four wheel drive,2,,Large,Extended Cab Pickup,17,12,1385,3419
+Chevrolet,C/K 1500 Series,1998,regular unleaded,200,6,MANUAL,rear wheel drive,2,,Large,Regular Cab Pickup,21,,1385,2668
+Chevrolet,C/K 1500 Series,1998,regular unleaded,200,6,MANUAL,four wheel drive,2,,Large,Regular Cab Pickup,19,,1385,2789
+Chevrolet,C/K 1500 Series,1998,regular unleaded,200,6,MANUAL,four wheel drive,2,,Large,Regular Cab Pickup,19,,1385,3321
+Chevrolet,C/K 1500 Series,1998,regular unleaded,230,8,MANUAL,rear wheel drive,2,,Large,Extended Cab Pickup,18,,1385,3342
+Chevrolet,C/K 1500 Series,1998,regular unleaded,200,6,MANUAL,four wheel drive,2,,Large,Regular Cab Pickup,19,,1385,3025
+Chevrolet,C/K 1500 Series,1998,regular unleaded,200,6,MANUAL,rear wheel drive,2,,Large,Regular Cab Pickup,21,,1385,2653
+Chevrolet,C/K 1500 Series,1998,regular unleaded,200,6,MANUAL,rear wheel drive,2,,Large,Extended Cab Pickup,21,,1385,2740
+Chevrolet,C/K 1500 Series,1998,regular unleaded,200,6,MANUAL,rear wheel drive,2,,Large,Regular Cab Pickup,21,,1385,2639
+Chevrolet,C/K 1500 Series,1998,regular unleaded,200,6,MANUAL,four wheel drive,2,,Large,Regular Cab Pickup,19,,1385,3067
+Chevrolet,C/K 1500 Series,1998,regular unleaded,200,6,MANUAL,rear wheel drive,2,,Large,Regular Cab Pickup,21,,1385,2817
+Chevrolet,C/K 1500 Series,1998,regular unleaded,200,6,MANUAL,four wheel drive,2,,Large,Regular Cab Pickup,19,,1385,3350
+Chevrolet,C/K 1500 Series,1998,regular unleaded,200,6,MANUAL,four wheel drive,2,,Large,Regular Cab Pickup,19,,1385,3282
+Chevrolet,C/K 1500 Series,1998,regular unleaded,200,6,MANUAL,rear wheel drive,2,,Large,Regular Cab Pickup,21,,1385,2430
+Chevrolet,C/K 1500 Series,1999,regular unleaded,230,8,AUTOMATIC,rear wheel drive,3,,Large,Extended Cab Pickup,17,,1385,3696
+Chevrolet,C/K 1500 Series,1999,regular unleaded,230,8,AUTOMATIC,four wheel drive,3,,Large,Extended Cab Pickup,17,,1385,4098
+Chevrolet,C/K 2500 Series,1998,regular unleaded,230,8,MANUAL,rear wheel drive,2,,Large,Regular Cab Pickup,17,,1385,2949
+Chevrolet,C/K 2500 Series,1998,regular unleaded,230,,MANUAL,rear wheel drive,2,,Large,Extended Cab Pickup,17,,1385,3345
+Chevrolet,C/K 2500 Series,1998,regular unleaded,230,,MANUAL,rear wheel drive,2,,Large,Extended Cab Pickup,17,,1385,3034
+Chevrolet,C/K 2500 Series,1998,regular unleaded,230,,MANUAL,rear wheel drive,2,,Large,Regular Cab Pickup,17,,1385,2697
+Chevrolet,C/K 2500 Series,1998,regular unleaded,255,8,MANUAL,rear wheel drive,2,,Large,Extended Cab Pickup,18,,1385,3360
+Chevrolet,C/K 2500 Series,1998,regular unleaded,255,8,MANUAL,rear wheel drive,2,,Large,Extended Cab Pickup,18,,1385,3068
+Chevrolet,C/K 2500 Series,1998,regular unleaded,255,8,MANUAL,rear wheel drive,2,,Large,Regular Cab Pickup,18,,1385,3090
+Chevrolet,C/K 2500 Series,1998,regular unleaded,255,8,MANUAL,rear wheel drive,2,,Large,Regular Cab Pickup,18,,1385,2847
+Chevrolet,Classic,2004,regular unleaded,140,4,AUTOMATIC,front wheel drive,4,,Midsize,Sedan,31,,1385,19505
+Chevrolet,Classic,2005,regular unleaded,140,4,AUTOMATIC,front wheel drive,4,,Midsize,Sedan,31,,1385,19690
+Chevrolet,Cobalt,2008,regular unleaded,148,4,MANUAL,front wheel drive,2,,Compact,Coupe,33,,1385,14410
+Chevrolet,Cobalt,2008,regular unleaded,148,4,MANUAL,front wheel drive,4,,Compact,Sedan,33,,1385,15120
+Chevrolet,Cobalt,2008,premium unleaded (recommended),260,4,MANUAL,front wheel drive,2,"Factory Tuner,High-Performance",Compact,Coupe,30,,1385,22335
+Chevrolet,Cobalt,2008,regular unleaded,148,4,MANUAL,front wheel drive,4,,Compact,Sedan,33,,1385,14410
+Chevrolet,Cobalt,2008,regular unleaded,173,4,MANUAL,front wheel drive,4,,Compact,Sedan,32,,1385,19695
+Chevrolet,Cobalt,2008,regular unleaded,148,4,MANUAL,front wheel drive,2,,Compact,Coupe,33,,1385,15120
+Chevrolet,Cobalt,2008,regular unleaded,173,4,MANUAL,front wheel drive,2,,Compact,Coupe,32,,1385,19695
+Chevrolet,Cobalt,2009,regular unleaded,155,4,MANUAL,front wheel drive,2,,Compact,Coupe,35,,1385,16460
+Chevrolet,Cobalt,2009,regular unleaded,155,4,MANUAL,front wheel drive,4,,Compact,Sedan,35,,1385,15660
+Chevrolet,Cobalt,2009,premium unleaded (recommended),260,4,MANUAL,front wheel drive,2,"Factory Tuner,High-Performance",Compact,Coupe,30,,1385,23425
+Chevrolet,Cobalt,2009,regular unleaded,155,4,MANUAL,front wheel drive,2,,Compact,Coupe,35,25,1385,15660
+Chevrolet,Cobalt,2009,premium unleaded (recommended),260,4,MANUAL,front wheel drive,4,"Factory Tuner,Performance",Compact,Sedan,30,22,1385,23425
+Chevrolet,Cobalt,2009,regular unleaded,155,4,MANUAL,front wheel drive,4,,Compact,Sedan,37,25,1385,14990
+Chevrolet,Cobalt,2009,regular unleaded,155,4,MANUAL,front wheel drive,2,,Compact,Coupe,37,25,1385,14990
+Chevrolet,Cobalt,2009,regular unleaded,155,4,MANUAL,front wheel drive,4,,Compact,Sedan,35,25,1385,16460
+Chevrolet,Cobalt,2010,regular unleaded,155,4,MANUAL,front wheel drive,4,,Compact,Sedan,37,25,1385,15670
+Chevrolet,Cobalt,2010,premium unleaded (recommended),260,4,MANUAL,front wheel drive,2,"Factory Tuner,High-Performance",Compact,Coupe,30,22,1385,24535
+Chevrolet,Cobalt,2010,regular unleaded,155,4,MANUAL,front wheel drive,2,,Compact,Coupe,37,25,1385,14990
+Chevrolet,Cobalt,2010,regular unleaded,155,4,MANUAL,front wheel drive,4,,Compact,Sedan,37,25,1385,16470
+Chevrolet,Cobalt,2010,regular unleaded,155,4,MANUAL,front wheel drive,4,,Compact,Sedan,37,25,1385,14990
+Chevrolet,Cobalt,2010,regular unleaded,155,4,MANUAL,front wheel drive,2,,Compact,Coupe,37,25,1385,16470
+Chevrolet,Cobalt,2010,regular unleaded,155,4,MANUAL,front wheel drive,2,,Compact,Coupe,37,25,1385,15670
+Chevrolet,Colorado,2012,regular unleaded,300,8,AUTOMATIC,rear wheel drive,4,Performance,Compact,Crew Cab Pickup,20,14,1385,28340
+Chevrolet,Colorado,2012,regular unleaded,242,5,AUTOMATIC,four wheel drive,4,,Compact,Extended Cab Pickup,23,17,1385,29480
+Chevrolet,Colorado,2012,regular unleaded,185,4,MANUAL,four wheel drive,4,,Compact,Extended Cab Pickup,24,18,1385,23030
+Chevrolet,Colorado,2012,regular unleaded,185,4,MANUAL,four wheel drive,2,,Compact,Regular Cab Pickup,24,18,1385,20980
+Chevrolet,Colorado,2012,regular unleaded,242,5,AUTOMATIC,four wheel drive,4,,Compact,Crew Cab Pickup,21,16,1385,30320
+Chevrolet,Colorado,2012,regular unleaded,242,5,AUTOMATIC,rear wheel drive,4,,Compact,Extended Cab Pickup,23,17,1385,26160
+Chevrolet,Colorado,2012,regular unleaded,242,5,AUTOMATIC,rear wheel drive,4,,Compact,Crew Cab Pickup,23,17,1385,27490
+Chevrolet,Colorado,2012,regular unleaded,185,4,AUTOMATIC,rear wheel drive,4,,Compact,Extended Cab Pickup,25,18,1385,22955
+Chevrolet,Colorado,2012,regular unleaded,185,4,MANUAL,rear wheel drive,4,,Compact,Extended Cab Pickup,25,18,1385,19730
+Chevrolet,Colorado,2012,regular unleaded,185,4,AUTOMATIC,four wheel drive,2,,Compact,Regular Cab Pickup,23,17,1385,24440
+Chevrolet,Colorado,2012,regular unleaded,185,4,MANUAL,rear wheel drive,2,,Compact,Regular Cab Pickup,25,18,1385,17475
+Chevrolet,Colorado,2012,regular unleaded,185,4,AUTOMATIC,rear wheel drive,4,,Compact,Crew Cab Pickup,25,18,1385,24285
+Chevrolet,Colorado,2012,regular unleaded,185,4,AUTOMATIC,four wheel drive,4,,Compact,Extended Cab Pickup,23,17,1385,26620
+Chevrolet,Colorado,2012,regular unleaded,185,4,AUTOMATIC,rear wheel drive,2,,Compact,Regular Cab Pickup,25,18,1385,20370
+Chevrolet,Colorado,2012,regular unleaded,300,8,AUTOMATIC,rear wheel drive,4,Performance,Compact,Extended Cab Pickup,20,14,1385,27010
+Chevrolet,Colorado,2012,regular unleaded,242,5,AUTOMATIC,four wheel drive,4,,Compact,Crew Cab Pickup,21,16,1385,28460
+Chevrolet,Colorado,2015,regular unleaded,200,4,AUTOMATIC,four wheel drive,4,,Compact,Extended Cab Pickup,25,19,1385,29220
+Chevrolet,Colorado,2015,regular unleaded,200,4,AUTOMATIC,rear wheel drive,4,,Compact,Crew Cab Pickup,27,20,1385,29550
+Chevrolet,Colorado,2015,regular unleaded,305,6,AUTOMATIC,rear wheel drive,4,,Compact,Crew Cab Pickup,26,18,1385,25850
+Chevrolet,Colorado,2015,regular unleaded,305,6,AUTOMATIC,rear wheel drive,4,,Compact,Crew Cab Pickup,26,18,1385,28630
+Chevrolet,Colorado,2015,regular unleaded,200,4,AUTOMATIC,rear wheel drive,4,,Compact,Crew Cab Pickup,27,20,1385,27110
+Chevrolet,Colorado,2015,regular unleaded,200,4,AUTOMATIC,rear wheel drive,4,,Compact,Crew Cab Pickup,27,20,1385,24330
+Chevrolet,Colorado,2015,regular unleaded,200,4,AUTOMATIC,four wheel drive,4,,Compact,Extended Cab Pickup,25,19,1385,26885
+Chevrolet,Colorado,2015,regular unleaded,305,6,AUTOMATIC,four wheel drive,4,,Compact,Crew Cab Pickup,24,17,1385,30005
+Chevrolet,Colorado,2015,regular unleaded,305,6,AUTOMATIC,four wheel drive,4,,Compact,Crew Cab Pickup,24,17,1385,34415
+Chevrolet,Colorado,2015,regular unleaded,200,4,MANUAL,rear wheel drive,4,,Compact,Extended Cab Pickup,26,19,1385,21775
+Chevrolet,Colorado,2015,regular unleaded,305,6,AUTOMATIC,four wheel drive,4,,Compact,Crew Cab Pickup,24,17,1385,32085
+Chevrolet,Colorado,2015,regular unleaded,305,6,AUTOMATIC,rear wheel drive,4,,Compact,Crew Cab Pickup,26,18,1385,30785
+Chevrolet,Colorado,2015,regular unleaded,305,6,AUTOMATIC,four wheel drive,4,,Compact,Crew Cab Pickup,24,17,1385,32385
+Chevrolet,Colorado,2015,regular unleaded,305,6,AUTOMATIC,four wheel drive,4,,Compact,Crew Cab Pickup,24,17,1385,34115
+Chevrolet,Colorado,2015,regular unleaded,200,4,AUTOMATIC,rear wheel drive,4,,Compact,Extended Cab Pickup,27,20,1385,25170
+Chevrolet,Colorado,2015,regular unleaded,200,4,MANUAL,rear wheel drive,4,,Compact,Extended Cab Pickup,26,19,1385,20120
+Chevrolet,Colorado,2015,regular unleaded,200,4,AUTOMATIC,rear wheel drive,4,,Compact,Extended Cab Pickup,27,20,1385,27630
+Chevrolet,Colorado,2015,regular unleaded,305,,AUTOMATIC,four wheel drive,4,,Compact,Crew Cab Pickup,24,17,1385,29705
+Chevrolet,Colorado,2015,regular unleaded,200,,AUTOMATIC,four wheel drive,4,,Compact,Extended Cab Pickup,25,19,1385,31555
+Chevrolet,Colorado,2016,regular unleaded,305,,AUTOMATIC,four wheel drive,4,Diesel,Compact,Crew Cab Pickup,24,17,1385,30665
+Chevrolet,Colorado,2016,regular unleaded,305,,AUTOMATIC,four wheel drive,4,Diesel,Compact,Crew Cab Pickup,24,17,1385,32895
+Chevrolet,Colorado,2016,regular unleaded,305,,AUTOMATIC,four wheel drive,4,Diesel,Compact,Crew Cab Pickup,24,17,,35000
+Chevrolet,Colorado,2016,regular unleaded,305,,AUTOMATIC,four wheel drive,4,Diesel,Compact,Crew Cab Pickup,24,17,,30365
+Chevrolet,Colorado,2016,regular unleaded,200,,AUTOMATIC,rear wheel drive,4,,Compact,Extended Cab Pickup,27,20,,28515
+Chevrolet,Colorado,2016,regular unleaded,305,,AUTOMATIC,four wheel drive,4,Diesel,Compact,Crew Cab Pickup,24,17,,33195
+Chevrolet,Colorado,2016,regular unleaded,200,,AUTOMATIC,four wheel drive,4,,Compact,Extended Cab Pickup,25,19,,30030
+Chevrolet,Colorado,2016,regular unleaded,200,,MANUAL,rear wheel drive,4,,Compact,Extended Cab Pickup,26,19,,20100
+Chevrolet,Colorado,2016,regular unleaded,200,,AUTOMATIC,four wheel drive,4,,Compact,Extended Cab Pickup,25,19,,32440
+Chevrolet,Colorado,2016,regular unleaded,305,6,AUTOMATIC,rear wheel drive,4,Diesel,Compact,Crew Cab Pickup,26,18,,31670
+Chevrolet,Colorado,2016,regular unleaded,305,6,AUTOMATIC,rear wheel drive,4,Diesel,Compact,Crew Cab Pickup,26,18,,26510
+Chevrolet,Colorado,2016,regular unleaded,200,4,AUTOMATIC,rear wheel drive,4,Diesel,Compact,Crew Cab Pickup,27,20,,30435
+Chevrolet,Colorado,2016,regular unleaded,200,4,AUTOMATIC,four wheel drive,4,Diesel,Compact,Extended Cab Pickup,25,19,,27545
+Chevrolet,Colorado,2016,regular unleaded,200,4,AUTOMATIC,rear wheel drive,4,Diesel,Compact,Crew Cab Pickup,27,20,,24990
+Chevrolet,Colorado,2016,regular unleaded,305,6,AUTOMATIC,four wheel drive,4,Diesel,Compact,Crew Cab Pickup,24,17,,35300
+Chevrolet,Colorado,2016,regular unleaded,200,4,AUTOMATIC,rear wheel drive,4,Diesel,Compact,Crew Cab Pickup,27,20,,27920
+Chevrolet,Colorado,2016,regular unleaded,200,4,MANUAL,rear wheel drive,4,Diesel,Compact,Extended Cab Pickup,26,19,,22435
+Chevrolet,Colorado,2016,regular unleaded,200,4,AUTOMATIC,rear wheel drive,4,,Compact,Extended Cab Pickup,27,20,,25980
+Chevrolet,Colorado,2016,regular unleaded,305,6,AUTOMATIC,rear wheel drive,4,Diesel,Compact,Crew Cab Pickup,26,18,,29440
+Chevrolet,Corsica,1994,regular unleaded,120,4,AUTOMATIC,front wheel drive,4,,Compact,Sedan,28,22,,2000
+Chevrolet,Corsica,1996,regular unleaded,120,4,AUTOMATIC,front wheel drive,4,,Compact,Sedan,29,21,,2000
+Chevrolet,Corvette Stingray,2014,premium unleaded (recommended),455,8,MANUAL,rear wheel drive,2,High-Performance,Compact,Coupe,29,17,,53000
+Chevrolet,Corvette Stingray,2014,premium unleaded (recommended),455,8,MANUAL,rear wheel drive,2,High-Performance,Compact,Coupe,29,17,,57000
+Chevrolet,Corvette Stingray,2014,premium unleaded (recommended),455,8,MANUAL,rear wheel drive,2,High-Performance,Compact,Convertible,29,17,,62000
+Chevrolet,Corvette Stingray,2014,premium unleaded (recommended),455,8,MANUAL,rear wheel drive,,High-Performance,Compact,Convertible,29,17,,58000
+Chevrolet,Corvette,2015,premium unleaded (recommended),460,8,MANUAL,rear wheel drive,,High-Performance,Compact,Convertible,29,17,,68160
+Chevrolet,Corvette,2015,premium unleaded (recommended),460,8,MANUAL,rear wheel drive,,High-Performance,Compact,Coupe,29,17,,64160
+Chevrolet,Corvette,2015,premium unleaded (required),650,8,MANUAL,rear wheel drive,,"Factory Tuner,High-Performance",Compact,Convertible,22,15,,83000
+Chevrolet,Corvette,2015,premium unleaded (recommended),455,8,MANUAL,rear wheel drive,,High-Performance,Compact,Convertible,29,17,,63160
+Chevrolet,Corvette,2015,premium unleaded (recommended),460,8,MANUAL,rear wheel drive,,High-Performance,Compact,Convertible,29,17,,64000
+Chevrolet,Corvette,2015,premium unleaded (recommended),455,8,MANUAL,rear wheel drive,,High-Performance,Compact,Coupe,29,17,,55000
+Chevrolet,Corvette,2015,premium unleaded (required),650,8,MANUAL,rear wheel drive,,"Factory Tuner,High-Performance",Compact,Coupe,22,15,,87650
+Chevrolet,Corvette,2015,premium unleaded (recommended),460,8,MANUAL,rear wheel drive,,High-Performance,Compact,Convertible,29,17,,73450
+Chevrolet,Corvette,2015,premium unleaded (recommended),455,8,MANUAL,rear wheel drive,,High-Performance,Compact,Coupe,29,17,,64450
+Chevrolet,Corvette,2015,premium unleaded (recommended),460,8,MANUAL,rear wheel drive,,High-Performance,Compact,Coupe,29,17,,69450
+Chevrolet,Corvette,2015,premium unleaded (recommended),460,8,MANUAL,rear wheel drive,2,High-Performance,Compact,Coupe,29,17,,60000
+Chevrolet,Corvette,2015,premium unleaded (recommended),455,8,MANUAL,rear wheel drive,2,High-Performance,Compact,Convertible,29,17,,59000
+Chevrolet,Corvette,2015,premium unleaded (required),650,8,MANUAL,rear wheel drive,2,"Factory Tuner,High-Performance",Compact,Coupe,22,15,,82270
+Chevrolet,Corvette,2015,premium unleaded (required),650,8,MANUAL,rear wheel drive,2,"Factory Tuner,High-Performance",Compact,Convertible,22,15,1385,86270
+Chevrolet,Corvette,2015,premium unleaded (required),650,8,MANUAL,rear wheel drive,2,"Factory Tuner,High-Performance",Compact,Convertible,22,15,1385,91650
+Chevrolet,Corvette,2015,premium unleaded (required),650,8,MANUAL,rear wheel drive,2,"Factory Tuner,High-Performance",Compact,Coupe,22,15,1385,79000
+Chevrolet,Corvette,2015,premium unleaded (recommended),455,8,MANUAL,rear wheel drive,2,High-Performance,Compact,Convertible,29,17,1385,68450
+Chevrolet,Corvette,2015,premium unleaded (recommended),455,8,MANUAL,rear wheel drive,2,High-Performance,Compact,Coupe,29,17,1385,59160
+Chevrolet,Corvette,2016,premium unleaded (required),650,8,MANUAL,rear wheel drive,2,"Factory Tuner,High-Performance",Compact,Coupe,22,15,1385,88345
+Chevrolet,Corvette,2016,premium unleaded (required),650,8,MANUAL,rear wheel drive,2,"Factory Tuner,High-Performance",Compact,Coupe,22,15,1385,79400
+Chevrolet,Corvette,2016,premium unleaded (recommended),460,8,MANUAL,rear wheel drive,2,High-Performance,Compact,Coupe,29,17,1385,70145
+Chevrolet,Corvette,2016,premium unleaded (recommended),455,8,MANUAL,rear wheel drive,2,High-Performance,Compact,Coupe,29,17,1385,65145
+Chevrolet,Corvette,2016,premium unleaded (required),650,8,MANUAL,rear wheel drive,2,"Factory Tuner,High-Performance",Compact,Convertible,22,15,1385,83400
+Chevrolet,Corvette,2016,premium unleaded (required),650,8,MANUAL,rear wheel drive,2,"Factory Tuner,High-Performance",Compact,Coupe,22,15,1385,82965
+Chevrolet,Corvette,2016,premium unleaded (recommended),460,8,MANUAL,rear wheel drive,2,High-Performance,Compact,Convertible,29,17,1385,68855
+Chevrolet,Corvette,2016,premium unleaded (recommended),455,8,MANUAL,rear wheel drive,2,High-Performance,Compact,Coupe,29,17,1385,59855
+Chevrolet,Corvette,2016,premium unleaded (recommended),460,8,MANUAL,rear wheel drive,2,High-Performance,Compact,Convertible,29,17,1385,64400
+Chevrolet,Corvette,2016,premium unleaded (recommended),460,8,MANUAL,rear wheel drive,2,High-Performance,Compact,Convertible,29,17,1385,74145
+Chevrolet,Corvette,2016,premium unleaded (recommended),455,8,MANUAL,rear wheel drive,2,High-Performance,Compact,Convertible,29,17,1385,63855
+Chevrolet,Corvette,2016,premium unleaded (required),650,8,MANUAL,rear wheel drive,2,"Factory Tuner,High-Performance",Compact,Convertible,22,15,1385,86965
+Chevrolet,Corvette,2016,premium unleaded (recommended),455,8,MANUAL,rear wheel drive,2,High-Performance,Compact,Convertible,29,17,1385,59400
+Chevrolet,Corvette,2016,premium unleaded (required),650,8,MANUAL,rear wheel drive,2,"Factory Tuner,High-Performance",Compact,Convertible,22,15,1385,92345
+Chevrolet,Corvette,2016,premium unleaded (recommended),460,8,MANUAL,rear wheel drive,2,High-Performance,Compact,Coupe,29,17,1385,60400
+Chevrolet,Corvette,2016,premium unleaded (recommended),460,8,MANUAL,rear wheel drive,2,High-Performance,Compact,Coupe,29,17,1385,64855
+Chevrolet,Corvette,2016,premium unleaded (recommended),455,8,MANUAL,rear wheel drive,2,High-Performance,Compact,Convertible,29,17,1385,69145
+Chevrolet,Corvette,2016,premium unleaded (recommended),455,8,MANUAL,rear wheel drive,2,High-Performance,Compact,Coupe,29,17,1385,55400
+Chevrolet,Corvette,2017,premium unleaded (required),650,8,MANUAL,rear wheel drive,2,"Factory Tuner,High-Performance",Compact,Convertible,22,15,1385,87015
+Chevrolet,Corvette,2017,premium unleaded (recommended),455,8,MANUAL,rear wheel drive,2,High-Performance,Compact,Coupe,25,16,1385,59905
+Chevrolet,Corvette,2017,premium unleaded (recommended),460,8,MANUAL,rear wheel drive,2,High-Performance,Compact,Convertible,25,16,1385,74195
+Chevrolet,Corvette,2017,premium unleaded (recommended),455,8,MANUAL,rear wheel drive,2,High-Performance,Compact,Coupe,25,16,1385,65195
+Chevrolet,Corvette,2017,premium unleaded (required),650,8,MANUAL,rear wheel drive,2,"Factory Tuner,High-Performance",Compact,Coupe,22,15,1385,88395
+Chevrolet,Corvette,2017,premium unleaded (recommended),455,8,MANUAL,rear wheel drive,2,High-Performance,Compact,Convertible,25,16,1385,59450
+Chevrolet,Corvette,2017,premium unleaded (recommended),455,8,MANUAL,rear wheel drive,2,High-Performance,Compact,Coupe,25,16,1385,55450
+Chevrolet,Corvette,2017,premium unleaded (recommended),460,8,MANUAL,rear wheel drive,2,High-Performance,Compact,Coupe,25,16,1385,70195
+Chevrolet,Corvette,2017,premium unleaded (recommended),460,8,MANUAL,rear wheel drive,2,High-Performance,Compact,Convertible,25,16,1385,68905
+Chevrolet,Corvette,2017,premium unleaded (recommended),460,8,MANUAL,rear wheel drive,2,High-Performance,Compact,Coupe,25,16,1385,65450
+Chevrolet,Corvette,2017,premium unleaded (required),650,8,MANUAL,rear wheel drive,2,"Factory Tuner,High-Performance",Compact,Coupe,22,15,1385,79450
+Chevrolet,Corvette,2017,premium unleaded (recommended),460,8,MANUAL,rear wheel drive,2,High-Performance,Compact,Coupe,25,16,1385,69905
+Chevrolet,Corvette,2017,premium unleaded (recommended),455,8,MANUAL,rear wheel drive,2,High-Performance,Compact,Convertible,25,16,1385,69195
+Chevrolet,Corvette,2017,premium unleaded (recommended),455,8,MANUAL,rear wheel drive,2,High-Performance,Compact,Convertible,25,16,1385,63905
+Chevrolet,Corvette,2017,premium unleaded (recommended),460,8,MANUAL,rear wheel drive,2,High-Performance,Compact,Convertible,25,16,1385,69450
+Chevrolet,Corvette,2017,premium unleaded (recommended),460,8,MANUAL,rear wheel drive,2,High-Performance,Compact,Coupe,25,16,1385,60450
+Chevrolet,Corvette,2017,premium unleaded (recommended),460,8,MANUAL,rear wheel drive,2,High-Performance,Compact,Convertible,25,16,1385,79195
+Chevrolet,Corvette,2017,premium unleaded (required),650,8,MANUAL,rear wheel drive,2,"Factory Tuner,High-Performance",Compact,Convertible,22,15,1385,92395
+Chevrolet,Corvette,2017,premium unleaded (required),650,8,MANUAL,rear wheel drive,2,"Factory Tuner,High-Performance",Compact,Convertible,22,15,1385,83450
+Chevrolet,Corvette,2017,premium unleaded (required),650,8,MANUAL,rear wheel drive,2,"Factory Tuner,High-Performance",Compact,Coupe,22,15,1385,83015
+Chevrolet,Corvette,2017,premium unleaded (recommended),460,8,MANUAL,rear wheel drive,2,High-Performance,Compact,Convertible,25,16,1385,73905
+Chevrolet,Corvette,2017,premium unleaded (recommended),460,8,MANUAL,rear wheel drive,2,High-Performance,Compact,Convertible,25,16,1385,64450
+Chevrolet,Corvette,2017,premium unleaded (recommended),460,8,MANUAL,rear wheel drive,2,High-Performance,Compact,Coupe,25,16,1385,64905
+Chevrolet,Corvette,2017,premium unleaded (recommended),460,8,MANUAL,rear wheel drive,2,High-Performance,Compact,Coupe,25,16,1385,75195
+Chevrolet,Cruze Limited,2016,regular unleaded,138,4,MANUAL,front wheel drive,4,,Midsize,Sedan,42,28,1385,20195
+Chevrolet,Cruze Limited,2016,regular unleaded,138,4,MANUAL,front wheel drive,4,,Midsize,Sedan,36,25,1385,17845
+Chevrolet,Cruze Limited,2016,regular unleaded,138,4,AUTOMATIC,front wheel drive,4,,Midsize,Sedan,38,26,1385,24370
+Chevrolet,Cruze Limited,2016,regular unleaded,138,4,AUTOMATIC,front wheel drive,4,,Midsize,Sedan,38,26,1385,23370
+Chevrolet,Cruze Limited,2016,regular unleaded,138,4,MANUAL,front wheel drive,4,,Midsize,Sedan,38,26,1385,19165
+Chevrolet,Cruze Limited,2016,regular unleaded,138,4,AUTOMATIC,front wheel drive,4,,Midsize,Sedan,39,26,1385,21470
+Chevrolet,Cruze Limited,2016,regular unleaded,138,4,MANUAL,front wheel drive,4,,Midsize,Sedan,36,25,1385,16120
+Chevrolet,Cruze Limited,2016,regular unleaded,138,4,AUTOMATIC,front wheel drive,4,,Midsize,Sedan,38,26,1385,20195
+Chevrolet,Cruze Limited,2016,regular unleaded,138,4,AUTOMATIC,front wheel drive,4,,Midsize,Sedan,35,22,1385,18970
+Chevrolet,Cruze,2015,regular unleaded,138,4,MANUAL,front wheel drive,4,,Midsize,Sedan,36,25,1385,16170
+Chevrolet,Cruze,2015,regular unleaded,138,4,AUTOMATIC,front wheel drive,4,,Midsize,Sedan,38,26,1385,23270
+Chevrolet,Cruze,2015,regular unleaded,138,4,MANUAL,front wheel drive,4,,Midsize,Sedan,42,28,1385,20095
+Chevrolet,Cruze,2015,regular unleaded,138,4,MANUAL,front wheel drive,4,,Midsize,Sedan,36,25,1385,17745
+Chevrolet,Cruze,2015,regular unleaded,138,4,AUTOMATIC,front wheel drive,4,,Midsize,Sedan,38,26,1385,20095
+Chevrolet,Cruze,2015,regular unleaded,138,4,AUTOMATIC,front wheel drive,4,,Midsize,Sedan,38,26,1385,24270
+Chevrolet,Cruze,2015,regular unleaded,138,4,AUTOMATIC,front wheel drive,4,,Midsize,Sedan,35,22,1385,18870
+Chevrolet,Cruze,2015,regular unleaded,138,4,MANUAL,front wheel drive,4,,Midsize,Sedan,38,26,1385,19065
+Chevrolet,Cruze,2015,regular unleaded,138,4,AUTOMATIC,front wheel drive,4,,Midsize,Sedan,39,26,1385,21370
+Chevrolet,Cruze,2015,diesel,148,4,AUTOMATIC,front wheel drive,4,Diesel,Midsize,Sedan,46,27,1385,25660
+Chevrolet,Cruze,2016,regular unleaded,153,4,AUTOMATIC,front wheel drive,4,,Midsize,Sedan,42,30,1385,19120
+Chevrolet,Cruze,2016,regular unleaded,153,4,MANUAL,front wheel drive,4,,Midsize,Sedan,41,29,1385,18120
+Chevrolet,Cruze,2016,regular unleaded,153,4,MANUAL,front wheel drive,4,,Midsize,Sedan,41,29,1385,16620
+Chevrolet,Cruze,2016,regular unleaded,153,4,AUTOMATIC,front wheel drive,4,,Midsize,Sedan,42,30,1385,21120
+Chevrolet,Cruze,2016,regular unleaded,153,4,MANUAL,front wheel drive,4,,Midsize,Sedan,41,29,1385,19820
+Chevrolet,Cruze,2016,regular unleaded,153,4,AUTOMATIC,front wheel drive,4,,Midsize,Sedan,42,30,1385,23120
+Chevrolet,Cruze,2017,regular unleaded,153,4,AUTOMATIC,front wheel drive,4,Hatchback,Compact,4dr Hatchback,38,29,1385,21920
+Chevrolet,Cruze,2017,regular unleaded,153,4,MANUAL,front wheel drive,4,Hatchback,Compact,4dr Hatchback,37,28,1385,21240
+Chevrolet,Cruze,2017,regular unleaded,153,4,AUTOMATIC,front wheel drive,4,,Midsize,Sedan,40,30,1385,21450
+Chevrolet,Cruze,2017,regular unleaded,153,4,MANUAL,front wheel drive,4,,Midsize,Sedan,39,28,1385,16975
+Chevrolet,Cruze,2017,regular unleaded,153,4,MANUAL,front wheel drive,4,,Midsize,Sedan,39,28,1385,18525
+Chevrolet,Cruze,2017,regular unleaded,153,4,AUTOMATIC,front wheel drive,4,,Midsize,Sedan,39,29,1385,23475
+Chevrolet,Cruze,2017,regular unleaded,153,4,MANUAL,front wheel drive,4,,Midsize,Sedan,39,28,1385,20150
+Chevrolet,Cruze,2017,regular unleaded,153,4,AUTOMATIC,front wheel drive,4,,Midsize,Sedan,40,30,1385,19525
+Chevrolet,Cruze,2017,regular unleaded,153,4,AUTOMATIC,front wheel drive,4,Hatchback,Compact,4dr Hatchback,37,28,1385,23945
+Chevrolet,Equinox,2015,regular unleaded,182,4,AUTOMATIC,all wheel drive,4,"Crossover,Flex Fuel",Compact,4dr SUV,29,20,1385,26270
+Chevrolet,Equinox,2015,regular unleaded,182,4,AUTOMATIC,front wheel drive,4,"Crossover,Flex Fuel",Compact,4dr SUV,32,22,1385,26170
+Chevrolet,Equinox,2015,regular unleaded,182,4,AUTOMATIC,all wheel drive,4,"Crossover,Flex Fuel",Compact,4dr SUV,29,20,1385,27920
+Chevrolet,Equinox,2015,regular unleaded,182,4,AUTOMATIC,front wheel drive,4,"Crossover,Flex Fuel",Compact,4dr SUV,32,22,1385,28170
+Chevrolet,Equinox,2015,regular unleaded,182,4,AUTOMATIC,front wheel drive,4,"Crossover,Flex Fuel",Compact,4dr SUV,32,22,1385,31920
+Chevrolet,Equinox,2015,regular unleaded,182,4,AUTOMATIC,all wheel drive,4,"Crossover,Flex Fuel",Compact,4dr SUV,29,20,1385,33670
+Chevrolet,Equinox,2015,regular unleaded,182,4,AUTOMATIC,front wheel drive,4,"Crossover,Flex Fuel",Compact,4dr SUV,32,22,1385,24520
+Chevrolet,Equinox,2015,regular unleaded,182,4,AUTOMATIC,front wheel drive,4,"Crossover,Flex Fuel",Compact,4dr SUV,32,22,1385,22120
+Chevrolet,Equinox,2015,regular unleaded,182,4,AUTOMATIC,all wheel drive,4,"Crossover,Flex Fuel",Compact,4dr SUV,29,20,1385,29920
+Chevrolet,Equinox,2016,regular unleaded,182,4,AUTOMATIC,front wheel drive,4,Crossover,Compact,4dr SUV,32,22,1385,22600
+Chevrolet,Equinox,2016,regular unleaded,182,4,AUTOMATIC,all wheel drive,4,Crossover,Compact,4dr SUV,29,20,1385,31490
+Chevrolet,Equinox,2016,regular unleaded,182,4,AUTOMATIC,front wheel drive,4,Crossover,Compact,4dr SUV,32,22,1385,29740
+Chevrolet,Equinox,2016,regular unleaded,182,4,AUTOMATIC,all wheel drive,4,Crossover,Compact,4dr SUV,29,20,1385,26960
+Chevrolet,Equinox,2016,regular unleaded,182,4,AUTOMATIC,all wheel drive,4,Crossover,Compact,4dr SUV,29,20,1385,28200
+Chevrolet,Equinox,2016,regular unleaded,182,4,AUTOMATIC,front wheel drive,4,Crossover,Compact,4dr SUV,32,22,1385,25210
+Chevrolet,Equinox,2016,regular unleaded,182,4,AUTOMATIC,front wheel drive,4,Crossover,Compact,4dr SUV,32,22,1385,26450
+Chevrolet,Equinox,2017,regular unleaded,182,4,AUTOMATIC,front wheel drive,4,Crossover,Compact,4dr SUV,32,22,1385,25510
+Chevrolet,Equinox,2017,regular unleaded,182,4,AUTOMATIC,all wheel drive,4,Crossover,Compact,4dr SUV,28,20,1385,27260
+Chevrolet,Equinox,2017,regular unleaded,182,4,AUTOMATIC,front wheel drive,4,Crossover,Compact,4dr SUV,32,22,1385,26750
+Chevrolet,Equinox,2017,regular unleaded,182,4,AUTOMATIC,front wheel drive,4,Crossover,Compact,4dr SUV,32,22,1385,23100
+Chevrolet,Equinox,2017,regular unleaded,182,4,AUTOMATIC,all wheel drive,4,Crossover,Compact,4dr SUV,28,20,1385,31790
+Chevrolet,Equinox,2017,regular unleaded,182,4,AUTOMATIC,front wheel drive,4,Crossover,Compact,4dr SUV,32,22,1385,30040
+Chevrolet,Equinox,2017,regular unleaded,182,4,AUTOMATIC,all wheel drive,4,Crossover,Compact,4dr SUV,28,20,1385,28500
+Chevrolet,Express Cargo,2014,flex-fuel (unleaded/E85),310,8,AUTOMATIC,all wheel drive,3,Flex Fuel,Midsize,Cargo Van,17,13,1385,32760
+Chevrolet,Express Cargo,2014,regular unleaded,195,6,AUTOMATIC,rear wheel drive,3,Flex Fuel,Midsize,Cargo Van,19,14,1385,27710
+Chevrolet,Express,2014,flex-fuel (unleaded/E85),310,8,AUTOMATIC,all wheel drive,3,Flex Fuel,Midsize,Passenger Van,17,13,1385,34525
+Chevrolet,Express,2014,flex-fuel (unleaded/E85),285,8,AUTOMATIC,rear wheel drive,3,Flex Fuel,Midsize,Passenger Van,17,11,1385,34160
+Chevrolet,Express,2014,flex-fuel (unleaded/E85),310,8,AUTOMATIC,rear wheel drive,3,Flex Fuel,Midsize,Passenger Van,17,13,1385,30970
+Chevrolet,Express,2014,flex-fuel (unleaded/E85),285,8,AUTOMATIC,rear wheel drive,3,Flex Fuel,Large,Passenger Van,17,11,1385,36030
+Chevrolet,Express,2014,flex-fuel (unleaded/E85),285,8,AUTOMATIC,rear wheel drive,3,Flex Fuel,Midsize,Passenger Van,17,11,1385,31865
+Chevrolet,Express,2015,flex-fuel (unleaded/E85),285,8,AUTOMATIC,rear wheel drive,3,Flex Fuel,Midsize,Passenger Van,17,11,1385,32190
+Chevrolet,Express,2015,flex-fuel (unleaded/E85),285,8,AUTOMATIC,rear wheel drive,3,Flex Fuel,Midsize,Passenger Van,17,11,1385,34485
+Chevrolet,Express,2015,flex-fuel (unleaded/E85),285,8,AUTOMATIC,rear wheel drive,3,Flex Fuel,Midsize,Passenger Van,17,11,1385,35915
+Chevrolet,Express,2015,flex-fuel (unleaded/E85),285,8,AUTOMATIC,rear wheel drive,3,Flex Fuel,Large,Passenger Van,17,11,1385,36700
+Chevrolet,Express,2015,flex-fuel (unleaded/E85),285,8,AUTOMATIC,rear wheel drive,3,Flex Fuel,Large,Passenger Van,17,11,1385,36355
+Chevrolet,Express,2015,flex-fuel (unleaded/E85),285,8,AUTOMATIC,rear wheel drive,3,Flex Fuel,Midsize,Passenger Van,17,11,1385,34015
+Chevrolet,Express,2016,flex-fuel (unleaded/E85),285,8,AUTOMATIC,rear wheel drive,3,Flex Fuel,Large,Passenger Van,16,11,1385,37500
+Chevrolet,Express,2016,flex-fuel (unleaded/E85),285,8,AUTOMATIC,rear wheel drive,3,Flex Fuel,Midsize,Passenger Van,16,11,1385,32990
+Chevrolet,Express,2016,flex-fuel (unleaded/E85),285,8,AUTOMATIC,rear wheel drive,3,Flex Fuel,Midsize,Passenger Van,16,11,1385,35285
+Chevrolet,Express,2016,flex-fuel (unleaded/E85),285,8,AUTOMATIC,rear wheel drive,3,Flex Fuel,Midsize,Passenger Van,16,11,1385,36715
+Chevrolet,Express,2016,flex-fuel (unleaded/E85),285,8,AUTOMATIC,rear wheel drive,3,Flex Fuel,Midsize,Passenger Van,16,11,1385,34815
+Chevrolet,Express,2016,flex-fuel (unleaded/E85),285,8,AUTOMATIC,rear wheel drive,3,Flex Fuel,Large,Passenger Van,16,11,1385,37155
+Chevrolet,HHR,2009,flex-fuel (unleaded/E85),155,4,AUTOMATIC,front wheel drive,4,Flex Fuel,Compact,Wagon,30,22,1385,20720
+Chevrolet,HHR,2009,premium unleaded (recommended),260,4,MANUAL,front wheel drive,4,"Factory Tuner,Performance",Compact,Wagon,29,21,1385,25135
+Chevrolet,HHR,2009,flex-fuel (unleaded/E85),155,4,MANUAL,front wheel drive,4,Flex Fuel,Compact,Wagon,32,22,1385,18720
+Chevrolet,HHR,2009,premium unleaded (recommended),260,4,MANUAL,front wheel drive,4,"Factory Tuner,Performance",Compact,Wagon,29,21,1385,24815
+Chevrolet,HHR,2009,flex-fuel (unleaded/E85),155,4,MANUAL,front wheel drive,4,Flex Fuel,Compact,Wagon,32,22,1385,19030
+Chevrolet,HHR,2009,flex-fuel (unleaded/E85),155,4,AUTOMATIC,front wheel drive,4,Flex Fuel,Compact,Wagon,30,22,1385,21030
+Chevrolet,HHR,2010,flex-fuel (unleaded/E85),155,4,MANUAL,front wheel drive,4,Flex Fuel,Compact,Wagon,32,22,1385,20030
+Chevrolet,HHR,2010,flex-fuel (unleaded/E85),155,4,MANUAL,front wheel drive,4,Flex Fuel,Compact,Wagon,32,22,1385,18720
+Chevrolet,HHR,2010,premium unleaded (recommended),260,4,MANUAL,front wheel drive,4,"Factory Tuner,Performance",Compact,Wagon,29,21,1385,26255
+Chevrolet,HHR,2010,flex-fuel (unleaded/E85),155,4,MANUAL,front wheel drive,4,Flex Fuel,Compact,Wagon,32,22,1385,19720
+Chevrolet,HHR,2010,flex-fuel (unleaded/E85),155,4,MANUAL,front wheel drive,4,Flex Fuel,Compact,Wagon,32,22,1385,19030
+Chevrolet,HHR,2011,flex-fuel (unleaded/E85),155,4,MANUAL,front wheel drive,4,Flex Fuel,Compact,Wagon,32,22,1385,18720
+Chevrolet,HHR,2011,flex-fuel (unleaded/E85),155,4,MANUAL,front wheel drive,4,Flex Fuel,Compact,Wagon,32,22,1385,19030
+Chevrolet,HHR,2011,flex-fuel (unleaded/E85),155,4,MANUAL,front wheel drive,4,Flex Fuel,Compact,Wagon,32,22,1385,19720
+Chevrolet,Impala Limited,2014,flex-fuel (unleaded/E85),300,6,AUTOMATIC,front wheel drive,4,Flex Fuel,Large,Sedan,30,18,1385,26840
+Chevrolet,Impala Limited,2014,flex-fuel (unleaded/E85),300,6,AUTOMATIC,front wheel drive,4,Flex Fuel,Large,Sedan,30,18,1385,25830
+Chevrolet,Impala Limited,2014,flex-fuel (unleaded/E85),300,6,AUTOMATIC,front wheel drive,4,"Flex Fuel,Performance",Large,Sedan,30,18,1385,30535
+Chevrolet,Impala Limited,2015,flex-fuel (unleaded/E85),300,6,AUTOMATIC,front wheel drive,4,Flex Fuel,Large,Sedan,30,18,,26840
+Chevrolet,Impala Limited,2015,flex-fuel (unleaded/E85),300,6,AUTOMATIC,front wheel drive,4,Flex Fuel,Large,Sedan,30,18,,25830
+Chevrolet,Impala Limited,2015,flex-fuel (unleaded/E85),300,6,AUTOMATIC,front wheel drive,4,"Flex Fuel,Performance",Large,Sedan,30,18,,30535
+Chevrolet,Impala Limited,2016,flex-fuel (unleaded/E85),300,6,AUTOMATIC,front wheel drive,4,Flex Fuel,Large,Sedan,30,18,,26840
+Chevrolet,Impala Limited,2016,flex-fuel (unleaded/E85),300,6,AUTOMATIC,front wheel drive,4,"Flex Fuel,Performance",Large,Sedan,30,18,,30535
+Chevrolet,Impala Limited,2016,flex-fuel (unleaded/E85),300,6,AUTOMATIC,front wheel drive,4,Flex Fuel,Large,Sedan,30,18,,25830
+Chevrolet,Impala,2015,regular unleaded,195,4,AUTOMATIC,front wheel drive,4,,Large,Sedan,31,21,,34465
+Chevrolet,Impala,2015,regular unleaded,195,4,AUTOMATIC,front wheel drive,4,,Large,Sedan,31,21,,27060
+Chevrolet,Impala,2015,flex-fuel (unleaded/natural gas),,6,AUTOMATIC,front wheel drive,4,"Flex Fuel,Performance",Large,Sedan,25,17,,40660
+Chevrolet,Impala,2015,flex-fuel (unleaded/E85),305,6,AUTOMATIC,front wheel drive,4,"Flex Fuel,Performance",Large,Sedan,29,19,,35440
+Chevrolet,Impala,2015,flex-fuel (unleaded/E85),305,6,AUTOMATIC,front wheel drive,4,"Flex Fuel,Performance",Large,Sedan,29,19,,30285
+Chevrolet,Impala,2015,regular unleaded,195,4,AUTOMATIC,front wheel drive,4,,Large,Sedan,31,21,,29310
+Chevrolet,Impala,2015,regular unleaded,195,4,AUTOMATIC,front wheel drive,4,,Large,Sedan,31,21,,27060
+Chevrolet,Impala,2015,flex-fuel (unleaded/natural gas),,6,AUTOMATIC,front wheel drive,4,"Flex Fuel,Performance",Large,Sedan,25,17,,37535
+Chevrolet,Impala,2016,flex-fuel (unleaded/natural gas),,6,AUTOMATIC,front wheel drive,4,"Flex Fuel,Performance",Large,Sedan,25,17,,40810
+Chevrolet,Impala,2016,flex-fuel (unleaded/E85),305,6,AUTOMATIC,front wheel drive,4,"Flex Fuel,Performance",Large,Sedan,29,19,,35540
+Chevrolet,Impala,2016,flex-fuel (unleaded/natural gas),,6,AUTOMATIC,front wheel drive,4,"Flex Fuel,Performance",Large,Sedan,25,17,,37570
+Chevrolet,Impala,2016,flex-fuel (unleaded/E85),305,6,AUTOMATIC,front wheel drive,4,"Flex Fuel,Performance",Large,Sedan,29,19,,30435
+Chevrolet,Impala,2016,regular unleaded,195,4,AUTOMATIC,front wheel drive,4,,Large,Sedan,31,22,,27095
+Chevrolet,Impala,2016,regular unleaded,195,4,AUTOMATIC,front wheel drive,4,,Large,Sedan,31,22,,29460
+Chevrolet,Impala,2016,regular unleaded,195,4,AUTOMATIC,front wheel drive,4,,Large,Sedan,31,22,,27095
+Chevrolet,Impala,2017,flex-fuel (unleaded/E85),305,6,AUTOMATIC,front wheel drive,4,"Flex Fuel,Performance",Large,Sedan,28,19,,35645
+Chevrolet,Impala,2017,flex-fuel (unleaded/natural gas),,6,AUTOMATIC,front wheel drive,4,"Flex Fuel,Performance",Large,Sedan,25,17,,37675
+Chevrolet,Impala,2017,flex-fuel (unleaded/natural gas),,6,AUTOMATIC,front wheel drive,4,"Flex Fuel,Performance",Large,Sedan,25,17,,40915
+Chevrolet,Lumina Minivan,1994,regular unleaded,120,6,AUTOMATIC,front wheel drive,3,,Compact,Passenger Minivan,21,17,,2000
+Chevrolet,Lumina Minivan,1994,regular unleaded,120,6,AUTOMATIC,front wheel drive,3,,Compact,Cargo Minivan,21,17,,2000
+Chevrolet,Lumina Minivan,1995,regular unleaded,120,6,AUTOMATIC,front wheel drive,3,,Compact,Passenger Minivan,21,17,,2000
+Chevrolet,Lumina Minivan,1995,regular unleaded,120,6,AUTOMATIC,front wheel drive,3,,Compact,Cargo Minivan,21,17,,2000
+Chevrolet,Lumina Minivan,1996,regular unleaded,180,6,AUTOMATIC,front wheel drive,3,,Compact,Passenger Minivan,24,17,,2000
+Chevrolet,Lumina Minivan,1996,regular unleaded,180,6,AUTOMATIC,front wheel drive,3,,Compact,Cargo Minivan,24,17,,2000
+Chevrolet,Lumina,1999,regular unleaded,160,6,AUTOMATIC,front wheel drive,4,,Midsize,Sedan,26,17,,2000
+Chevrolet,Lumina,1999,regular unleaded,160,6,AUTOMATIC,front wheel drive,4,,Midsize,Sedan,26,17,,2000
+Chevrolet,Lumina,1999,regular unleaded,200,6,AUTOMATIC,front wheel drive,4,,Midsize,Sedan,27,17,,2044
+Chevrolet,Lumina,2000,regular unleaded,175,6,AUTOMATIC,front wheel drive,4,,Midsize,Sedan,27,18,,2100
+Chevrolet,Lumina,2001,regular unleaded,175,6,AUTOMATIC,front wheel drive,4,,Midsize,Sedan,26,18,,18890
+Chevrolet,Malibu Classic,2008,regular unleaded,219,6,AUTOMATIC,front wheel drive,4,,Midsize,Sedan,29,18,,20320
+Chevrolet,Malibu Classic,2008,regular unleaded,145,4,AUTOMATIC,front wheel drive,4,,Midsize,Sedan,30,22,,17935
+Chevrolet,Malibu Classic,2008,regular unleaded,219,6,AUTOMATIC,front wheel drive,4,,Midsize,Sedan,29,18,,19695
+Chevrolet,Malibu Hybrid,2008,regular unleaded,164,4,AUTOMATIC,front wheel drive,4,Hybrid,Midsize,Sedan,32,24,,23640
+Chevrolet,Malibu Hybrid,2009,regular unleaded,164,4,AUTOMATIC,front wheel drive,4,Hybrid,Midsize,Sedan,34,26,,25555
+Chevrolet,Malibu Hybrid,2010,regular unleaded,164,4,AUTOMATIC,front wheel drive,4,Hybrid,Midsize,Sedan,34,26,,25925
+Chevrolet,Malibu Limited,2016,regular unleaded,197,4,AUTOMATIC,front wheel drive,4,,Midsize,Sedan,34,24,,23835
+Chevrolet,Malibu Limited,2016,regular unleaded,197,4,AUTOMATIC,front wheel drive,4,,Midsize,Sedan,34,24,,22565
+Chevrolet,Malibu Limited,2016,regular unleaded,197,4,AUTOMATIC,front wheel drive,4,,Midsize,Sedan,34,24,,28420
+Chevrolet,Malibu Limited,2016,regular unleaded,197,4,AUTOMATIC,front wheel drive,4,,Midsize,Sedan,34,24,,22565
+Chevrolet,Malibu Maxx,2005,regular unleaded,200,6,AUTOMATIC,front wheel drive,4,Hatchback,Midsize,4dr Hatchback,28,20,,24610
+Chevrolet,Malibu Maxx,2005,regular unleaded,200,6,AUTOMATIC,front wheel drive,4,Hatchback,Midsize,4dr Hatchback,28,20,,21465
+Chevrolet,Malibu Maxx,2005,regular unleaded,200,6,AUTOMATIC,front wheel drive,4,Hatchback,Midsize,4dr Hatchback,28,20,,20965
+Chevrolet,Malibu Maxx,2006,regular unleaded,201,6,AUTOMATIC,front wheel drive,4,Hatchback,Midsize,4dr Hatchback,28,20,,23465
+Chevrolet,Malibu Maxx,2006,regular unleaded,201,6,AUTOMATIC,front wheel drive,4,Hatchback,Midsize,4dr Hatchback,28,20,,20165
+Chevrolet,Malibu Maxx,2006,regular unleaded,240,6,AUTOMATIC,front wheel drive,4,"Hatchback,Performance",Midsize,4dr Hatchback,24,16,,23265
+Chevrolet,Malibu Maxx,2006,regular unleaded,201,6,AUTOMATIC,front wheel drive,4,Hatchback,Midsize,4dr Hatchback,28,20,,19565
+Chevrolet,Malibu Maxx,2007,regular unleaded,217,6,AUTOMATIC,front wheel drive,4,Hatchback,Midsize,4dr Hatchback,28,18,,20575
+Chevrolet,Malibu Maxx,2007,regular unleaded,217,6,AUTOMATIC,front wheel drive,4,Hatchback,Midsize,4dr Hatchback,28,18,,19795
+Chevrolet,Malibu Maxx,2007,regular unleaded,240,6,AUTOMATIC,front wheel drive,4,"Hatchback,Performance",Midsize,4dr Hatchback,22,15,,23710
+Chevrolet,Malibu Maxx,2007,regular unleaded,217,6,AUTOMATIC,front wheel drive,4,"Hatchback,Performance",Midsize,4dr Hatchback,28,18,,23915
+Chevrolet,Malibu,2015,regular unleaded,196,4,AUTOMATIC,front wheel drive,4,,Midsize,Sedan,36,25,,28195
+Chevrolet,Malibu,2015,regular unleaded,196,4,AUTOMATIC,front wheel drive,4,,Midsize,Sedan,36,25,,25470
+Chevrolet,Malibu,2015,premium unleaded (recommended),259,4,AUTOMATIC,front wheel drive,4,Performance,Midsize,Sedan,30,21,,30355
+Chevrolet,Malibu,2015,regular unleaded,196,4,AUTOMATIC,front wheel drive,4,,Midsize,Sedan,36,25,,22340
+Chevrolet,Malibu,2015,premium unleaded (recommended),259,4,AUTOMATIC,front wheel drive,4,Performance,Midsize,Sedan,30,21,,27005
+Chevrolet,Malibu,2015,regular unleaded,196,4,AUTOMATIC,front wheel drive,4,,Midsize,Sedan,36,25,,23610
+Chevrolet,Malibu,2015,regular unleaded,196,4,AUTOMATIC,front wheel drive,4,,Midsize,Sedan,36,25,,22340
+Chevrolet,Malibu,2016,regular unleaded,160,4,AUTOMATIC,front wheel drive,4,,Midsize,Sedan,37,27,,21625
+Chevrolet,Malibu,2016,premium unleaded (recommended),250,4,AUTOMATIC,front wheel drive,4,Performance,Midsize,Sedan,33,22,,28620
+Chevrolet,Malibu,2016,regular unleaded,182,4,DIRECT_DRIVE,front wheel drive,4,Hybrid,Midsize,Sedan,46,47,,27770
+Chevrolet,Malibu,2016,premium unleaded (recommended),250,4,AUTOMATIC,front wheel drive,4,Performance,Midsize,Sedan,33,22,,30920
+Chevrolet,Malibu,2016,regular unleaded,160,4,AUTOMATIC,front wheel drive,4,,Midsize,Sedan,37,27,,23120
+Chevrolet,Malibu,2016,regular unleaded,160,4,AUTOMATIC,front wheel drive,4,,Midsize,Sedan,37,27,,25020
+Chevrolet,Malibu,2016,regular unleaded,160,4,AUTOMATIC,front wheel drive,4,,Midsize,Sedan,37,27,,23120
+Chevrolet,Malibu,2017,regular unleaded,160,4,AUTOMATIC,front wheel drive,4,,Midsize,Sedan,36,27,,25125
+Chevrolet,Malibu,2017,regular unleaded,182,4,DIRECT_DRIVE,front wheel drive,4,Hybrid,Midsize,Sedan,43,49,,27875
+Chevrolet,Malibu,2017,regular unleaded,160,4,AUTOMATIC,front wheel drive,4,,Midsize,Sedan,36,27,,21680
+Chevrolet,Malibu,2017,premium unleaded (recommended),250,4,AUTOMATIC,front wheel drive,4,Performance,Midsize,Sedan,33,22,,30975
+Chevrolet,Malibu,2017,regular unleaded,160,4,AUTOMATIC,front wheel drive,4,,Midsize,Sedan,36,27,,23225
+Chevrolet,Metro,1999,regular unleaded,55,3,MANUAL,front wheel drive,2,Hatchback,Compact,2dr Hatchback,42,34,,2000
+Chevrolet,Metro,1999,regular unleaded,79,4,MANUAL,front wheel drive,4,,Compact,Sedan,39,33,,2000
+Chevrolet,Metro,1999,regular unleaded,79,4,MANUAL,front wheel drive,2,Hatchback,Compact,2dr Hatchback,39,33,,2000
+Chevrolet,Metro,2000,regular unleaded,79,4,MANUAL,front wheel drive,4,,Compact,Sedan,38,31,,2000
+Chevrolet,Metro,2000,regular unleaded,55,3,MANUAL,front wheel drive,2,Hatchback,Compact,2dr Hatchback,41,32,,2000
+Chevrolet,Metro,2000,regular unleaded,79,4,MANUAL,front wheel drive,2,Hatchback,Compact,2dr Hatchback,38,31,,2000
+Chevrolet,Metro,2001,regular unleaded,79,4,AUTOMATIC,front wheel drive,4,,Compact,Sedan,31,26,,12515
+Chevrolet,Monte Carlo,2005,regular unleaded,180,6,AUTOMATIC,front wheel drive,2,,Midsize,Coupe,29,19,,22280
+Chevrolet,Monte Carlo,2005,regular unleaded,200,6,AUTOMATIC,front wheel drive,2,,Midsize,Coupe,28,18,,24690
+Chevrolet,Monte Carlo,2005,premium unleaded (required),240,6,AUTOMATIC,front wheel drive,2,Performance,Midsize,Coupe,26,17,,28355
+Chevrolet,Monte Carlo,2006,regular unleaded,242,6,AUTOMATIC,front wheel drive,2,,Midsize,Coupe,26,18,,24930
+Chevrolet,Monte Carlo,2006,flex-fuel (unleaded/E85),211,6,AUTOMATIC,front wheel drive,2,Flex Fuel,Midsize,Coupe,29,19,,20830
+Chevrolet,Monte Carlo,2006,regular unleaded,303,8,AUTOMATIC,front wheel drive,2,Performance,Midsize,Coupe,26,16,,26330
+Chevrolet,Monte Carlo,2006,flex-fuel (unleaded/E85),211,6,AUTOMATIC,front wheel drive,2,Flex Fuel,Midsize,Coupe,29,19,,20330
+Chevrolet,Monte Carlo,2006,regular unleaded,242,6,AUTOMATIC,front wheel drive,2,,Midsize,Coupe,26,18,,23430
+Chevrolet,Monte Carlo,2007,regular unleaded,303,8,AUTOMATIC,front wheel drive,2,Performance,Midsize,Coupe,24,16,,27740
+Chevrolet,Monte Carlo,2007,flex-fuel (unleaded/E85),211,6,AUTOMATIC,front wheel drive,2,Flex Fuel,Midsize,Coupe,29,19,,22625
+Chevrolet,Monte Carlo,2007,flex-fuel (unleaded/E85),211,6,AUTOMATIC,front wheel drive,2,Flex Fuel,Midsize,Coupe,29,19,,21015
+Chevrolet,Prizm,2000,regular unleaded,125,4,MANUAL,front wheel drive,4,,Compact,Sedan,34,27,,2130
+Chevrolet,Prizm,2000,regular unleaded,125,4,MANUAL,front wheel drive,4,,Compact,Sedan,34,27,,2003
+Chevrolet,Prizm,2001,regular unleaded,125,4,MANUAL,front wheel drive,4,,Compact,Sedan,37,27,,14155
+Chevrolet,Prizm,2001,regular unleaded,125,4,MANUAL,front wheel drive,4,,Compact,Sedan,37,27,,16220
+Chevrolet,Prizm,2002,regular unleaded,125,4,MANUAL,front wheel drive,4,,Compact,Sedan,37,27,,14330
+Chevrolet,Prizm,2002,regular unleaded,125,4,MANUAL,front wheel drive,4,,Compact,Sedan,37,27,,16395
+Chevrolet,S-10 Blazer,1992,regular unleaded,160,6,MANUAL,four wheel drive,2,,Compact,2dr SUV,20,15,,2000
+Chevrolet,S-10 Blazer,1992,regular unleaded,160,6,MANUAL,four wheel drive,2,,Compact,2dr SUV,20,15,,2000
+Chevrolet,S-10 Blazer,1992,regular unleaded,160,6,MANUAL,rear wheel drive,2,,Compact,2dr SUV,22,16,,2000
+Chevrolet,S-10 Blazer,1992,regular unleaded,160,6,MANUAL,rear wheel drive,4,,Midsize,4dr SUV,22,16,,2000
+Chevrolet,S-10 Blazer,1992,regular unleaded,160,6,MANUAL,rear wheel drive,4,,Midsize,4dr SUV,22,16,,2000
+Chevrolet,S-10 Blazer,1992,regular unleaded,160,6,MANUAL,four wheel drive,4,,Midsize,4dr SUV,20,15,,2000
+Chevrolet,S-10 Blazer,1992,regular unleaded,160,6,MANUAL,rear wheel drive,2,,Compact,2dr SUV,22,16,,2000
+Chevrolet,S-10 Blazer,1993,regular unleaded,165,6,MANUAL,rear wheel drive,4,,Midsize,4dr SUV,22,16,,2000
+Chevrolet,S-10 Blazer,1993,regular unleaded,165,6,MANUAL,four wheel drive,4,,Midsize,4dr SUV,20,15,,2000
+Chevrolet,S-10 Blazer,1993,regular unleaded,165,6,MANUAL,rear wheel drive,4,,Midsize,4dr SUV,22,16,,2000
+,S-10 Blazer,1993,regular unleaded,165,6,MANUAL,four wheel drive,2,,Compact,2dr SUV,20,15,,2000
+,S-10 Blazer,1993,regular unleaded,165,6,MANUAL,four wheel drive,2,,Compact,2dr SUV,20,15,,2000
+,S-10 Blazer,1993,regular unleaded,165,6,MANUAL,rear wheel drive,2,,Compact,2dr SUV,22,16,,2000
+,S-10 Blazer,1993,regular unleaded,165,6,MANUAL,rear wheel drive,2,,Compact,2dr SUV,22,16,,2000
+,S-10 Blazer,1993,regular unleaded,165,6,MANUAL,rear wheel drive,2,,Compact,2dr SUV,22,16,,2000
+,S-10 Blazer,1993,regular unleaded,165,6,MANUAL,four wheel drive,4,,Midsize,4dr SUV,20,15,,2000
+,S-10 Blazer,1993,regular unleaded,165,6,MANUAL,four wheel drive,2,,Compact,2dr SUV,20,15,,2000
+,S-10 Blazer,1993,regular unleaded,165,6,MANUAL,rear wheel drive,4,,Midsize,4dr SUV,22,16,,2000
+,S-10 Blazer,1993,regular unleaded,165,6,MANUAL,four wheel drive,4,,Midsize,4dr SUV,20,15,,2000
+,S-10 Blazer,1994,regular unleaded,165,6,MANUAL,rear wheel drive,2,,Compact,2dr SUV,20,15,,2000
+,S-10 Blazer,1994,regular unleaded,165,6,MANUAL,four wheel drive,4,,Midsize,4dr SUV,20,15,,2000
+,S-10 Blazer,1994,regular unleaded,165,6,MANUAL,rear wheel drive,4,,Midsize,4dr SUV,20,15,,2000
+,S-10 Blazer,1994,regular unleaded,165,6,MANUAL,rear wheel drive,2,,Compact,2dr SUV,20,15,,2000
+,S-10 Blazer,1994,regular unleaded,165,6,MANUAL,rear wheel drive,4,,Midsize,4dr SUV,20,15,,2000
+,S-10 Blazer,1994,regular unleaded,165,6,MANUAL,four wheel drive,2,,Compact,2dr SUV,20,15,,2000
+,S-10 Blazer,1994,regular unleaded,165,6,MANUAL,four wheel drive,4,,Midsize,4dr SUV,20,15,,2000
+,S-10 Blazer,1994,regular unleaded,165,6,MANUAL,four wheel drive,4,,Midsize,4dr SUV,20,15,,2000
+,S-10 Blazer,1994,regular unleaded,165,6,MANUAL,rear wheel drive,2,,Compact,2dr SUV,20,15,,2000
+,S-10 Blazer,1994,regular unleaded,165,6,MANUAL,rear wheel drive,4,,Midsize,4dr SUV,20,15,,2000
+,S-10 Blazer,1994,regular unleaded,165,6,MANUAL,four wheel drive,2,,Compact,2dr SUV,20,15,,2000
+,S-10 Blazer,1994,regular unleaded,165,6,MANUAL,four wheel drive,2,,Compact,2dr SUV,20,15,,2000
+,S-10,2002,regular unleaded,190,6,AUTOMATIC,rear wheel drive,3,Performance,Compact,Extended Cab Pickup,20,15,,20984
+,S-10,2002,flex-fuel (unleaded/E85),120,4,AUTOMATIC,rear wheel drive,2,Flex Fuel,Compact,Regular Cab Pickup,23,17,,15406
+,S-10,2002,flex-fuel (unleaded/E85),120,4,AUTOMATIC,rear wheel drive,3,Flex Fuel,Compact,Extended Cab Pickup,23,17,,21474
+,S-10,2002,regular unleaded,190,6,MANUAL,four wheel drive,3,,Compact,Extended Cab Pickup,16,12,,19757
+,S-10,2002,regular unleaded,190,6,AUTOMATIC,rear wheel drive,3,Performance,Compact,Extended Cab Pickup,20,15,,23539
+,S-10,2002,flex-fuel (unleaded/E85),120,4,MANUAL,rear wheel drive,3,Flex Fuel,Compact,Extended Cab Pickup,25,19,,15943
+Chevrolet,S-10,2002,regular unleaded,190,6,MANUAL,rear wheel drive,3,,Compact,Extended Cab Pickup,20,14,,17284
+Chevrolet,S-10,2002,regular unleaded,190,6,AUTOMATIC,rear wheel drive,2,,Compact,Regular Cab Pickup,20,15,,18169
+Chevrolet,S-10,2002,flex-fuel (unleaded/E85),120,4,AUTOMATIC,rear wheel drive,2,Flex Fuel,Compact,Regular Cab Pickup,23,17,,19434
+Chevrolet,S-10,2002,flex-fuel (unleaded/E85),120,4,MANUAL,rear wheel drive,2,Flex Fuel,Compact,Regular Cab Pickup,25,19,,13961
+Chevrolet,S-10,2002,regular unleaded,190,6,AUTOMATIC,four wheel drive,3,,Compact,Extended Cab Pickup,18,14,,24063
+Chevrolet,S-10,2002,regular unleaded,190,6,AUTOMATIC,rear wheel drive,2,Flex Fuel,Compact,Regular Cab Pickup,20,15,,18519
+Chevrolet,S-10,2002,regular unleaded,190,6,AUTOMATIC,four wheel drive,4,,Compact,Crew Cab Pickup,18,14,,24462
+Chevrolet,S-10,2002,regular unleaded,190,6,AUTOMATIC,four wheel drive,3,,Compact,Extended Cab Pickup,18,14,,25990
+Chevrolet,S-10,2002,flex-fuel (unleaded/E85),120,4,AUTOMATIC,rear wheel drive,2,Flex Fuel,Compact,Regular Cab Pickup,23,17,,17169
+Chevrolet,S-10,2002,regular unleaded,190,6,AUTOMATIC,rear wheel drive,3,,Compact,Extended Cab Pickup,20,15,,20209
+Chevrolet,S-10,2002,flex-fuel (unleaded/E85),120,4,AUTOMATIC,rear wheel drive,3,Flex Fuel,Compact,Extended Cab Pickup,23,17,,19209
+Chevrolet,S-10,2002,regular unleaded,190,6,AUTOMATIC,rear wheel drive,2,Performance,Compact,Regular Cab Pickup,20,15,,21499
+Chevrolet,S-10,2002,regular unleaded,190,6,MANUAL,rear wheel drive,2,,Compact,Regular Cab Pickup,20,14,,14961
+Chevrolet,S-10,2002,regular unleaded,190,6,AUTOMATIC,rear wheel drive,2,Performance,Compact,Regular Cab Pickup,20,15,,18944
+Chevrolet,S-10,2003,flex-fuel (unleaded/E85),120,4,MANUAL,rear wheel drive,3,Flex Fuel,Compact,Extended Cab Pickup,25,19,,20780
+Chevrolet,S-10,2003,regular unleaded,190,6,MANUAL,four wheel drive,3,,Compact,Extended Cab Pickup,17,12,,20270
+Chevrolet,S-10,2003,flex-fuel (unleaded/E85),120,4,MANUAL,rear wheel drive,2,Flex Fuel,Compact,Regular Cab Pickup,25,19,,16905
+Chevrolet,S-10,2003,flex-fuel (unleaded/E85),120,4,MANUAL,rear wheel drive,2,Flex Fuel,Compact,Regular Cab Pickup,25,19,,18780
+Chevrolet,S-10,2003,regular unleaded,190,6,AUTOMATIC,four wheel drive,4,,Compact,Crew Cab Pickup,18,14,,24370
+Chevrolet,S-10,2003,flex-fuel (unleaded/E85),120,4,AUTOMATIC,rear wheel drive,2,Flex Fuel,Compact,Regular Cab Pickup,23,17,,17570
+Chevrolet,S-10,2003,flex-fuel (unleaded/E85),120,4,MANUAL,rear wheel drive,3,Flex Fuel,Compact,Extended Cab Pickup,25,19,,16570
+Chevrolet,S-10,2003,regular unleaded,190,6,MANUAL,four wheel drive,3,,Compact,Extended Cab Pickup,17,12,,23985
+Chevrolet,S-10,2003,flex-fuel (unleaded/E85),120,4,AUTOMATIC,rear wheel drive,2,Flex Fuel,Compact,Regular Cab Pickup,23,17,,16220
+Chevrolet,S-10,2003,flex-fuel (unleaded/E85),120,4,MANUAL,rear wheel drive,3,Flex Fuel,Compact,Extended Cab Pickup,25,19,,18905
+Chevrolet,S-10,2003,flex-fuel (unleaded/E85),120,4,MANUAL,rear wheel drive,2,Flex Fuel,Compact,Regular Cab Pickup,25,19,,16120
+Chevrolet,S-10,2003,regular unleaded,190,6,MANUAL,four wheel drive,3,,Compact,Extended Cab Pickup,17,12,,21820
+Chevrolet,S-10,2003,flex-fuel (unleaded/E85),120,4,MANUAL,rear wheel drive,2,Flex Fuel,Compact,Regular Cab Pickup,25,19,,14770
+Chevrolet,S-10,2003,flex-fuel (unleaded/E85),120,4,MANUAL,rear wheel drive,3,Flex Fuel,Compact,Extended Cab Pickup,25,19,,18120
+Chevrolet,S-10,2004,regular unleaded,190,6,AUTOMATIC,four wheel drive,4,,Compact,Crew Cab Pickup,18,14,,24660
+Chevrolet,Silverado 1500 Classic,2007,regular unleaded,285,8,AUTOMATIC,four wheel drive,2,Flex Fuel,Large,Regular Cab Pickup,18,14,,26685
+Chevrolet,Silverado 1500 Classic,2007,regular unleaded,285,8,AUTOMATIC,rear wheel drive,2,Flex Fuel,Large,Regular Cab Pickup,19,15,,23350
+Chevrolet,Silverado 1500 Classic,2007,regular unleaded,295,8,AUTOMATIC,rear wheel drive,4,,Large,Extended Cab Pickup,19,14,,26930
+Chevrolet,Silverado 1500 Classic,2007,flex-fuel (unleaded/E85),295,8,AUTOMATIC,rear wheel drive,4,Flex Fuel,Large,Extended Cab Pickup,19,14,,27135
+Chevrolet,Silverado 1500 Classic,2007,regular unleaded,285,8,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,Extended Cab Pickup,18,14,,25845
+Chevrolet,Silverado 1500 Classic,2007,regular unleaded,295,8,AUTOMATIC,four wheel drive,4,,Large,Extended Cab Pickup,18,13,,31375
+Chevrolet,Silverado 1500 Classic,2007,regular unleaded,195,6,MANUAL,four wheel drive,2,Flex Fuel,Large,Regular Cab Pickup,19,14,,24020
+Chevrolet,Silverado 1500 Classic,2007,flex-fuel (unleaded/E85),295,8,AUTOMATIC,rear wheel drive,4,Flex Fuel,Large,Crew Cab Pickup,19,14,,28515
+Chevrolet,Silverado 1500 Classic,2007,flex-fuel (unleaded/E85),295,8,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,Extended Cab Pickup,17,13,,31810
+Chevrolet,Silverado 1500 Classic,2007,flex-fuel (unleaded/E85),295,8,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,Extended Cab Pickup,17,13,,29580
+Chevrolet,Silverado 1500 Classic,2007,flex-fuel (unleaded/E85),295,8,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,Crew Cab Pickup,17,13,,31465
+Chevrolet,Silverado 1500 Classic,2007,regular unleaded,195,6,MANUAL,rear wheel drive,2,Flex Fuel,Large,Regular Cab Pickup,21,15,,20515
+Chevrolet,Silverado 1500 Classic,2007,regular unleaded,195,6,MANUAL,four wheel drive,2,Flex Fuel,Large,Regular Cab Pickup,19,14,,19865
+Chevrolet,Silverado 1500 Classic,2007,regular unleaded,295,8,AUTOMATIC,four wheel drive,4,,Large,Extended Cab Pickup,18,13,,29380
+Chevrolet,Silverado 1500 Classic,2007,regular unleaded,285,8,AUTOMATIC,four wheel drive,2,Flex Fuel,Large,Regular Cab Pickup,18,14,,26975
+Chevrolet,Silverado 1500 Classic,2007,regular unleaded,195,6,AUTOMATIC,rear wheel drive,4,Flex Fuel,Large,Extended Cab Pickup,20,14,,23940
+Chevrolet,Silverado 1500 Classic,2007,regular unleaded,285,8,AUTOMATIC,rear wheel drive,4,,Large,Extended Cab Pickup,19,15,,25960
+Chevrolet,Silverado 1500 Classic,2007,flex-fuel (unleaded/E85),295,8,AUTOMATIC,rear wheel drive,4,Flex Fuel,Large,Extended Cab Pickup,19,14,,30755
+Chevrolet,Silverado 1500 Classic,2007,regular unleaded,285,8,AUTOMATIC,rear wheel drive,4,,Large,Crew Cab Pickup,19,15,,26460
+Chevrolet,Silverado 1500 Classic,2007,regular unleaded,195,6,MANUAL,rear wheel drive,2,Flex Fuel,Large,Regular Cab Pickup,21,15,,20075
+Chevrolet,Silverado 1500 Classic,2007,flex-fuel (unleaded/E85),295,8,AUTOMATIC,rear wheel drive,4,Flex Fuel,Large,Crew Cab Pickup,19,14,,32330
+Chevrolet,Silverado 1500 Classic,2007,regular unleaded,285,8,AUTOMATIC,rear wheel drive,4,,Large,Crew Cab Pickup,19,15,,24965
+Chevrolet,Silverado 1500 Classic,2007,flex-fuel (unleaded/E85),295,8,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,Extended Cab Pickup,17,13,,27060
+Chevrolet,Silverado 1500 Classic,2007,flex-fuel (unleaded/E85),295,8,AUTOMATIC,rear wheel drive,4,Flex Fuel,Large,Extended Cab Pickup,19,14,,24515
+Chevrolet,Silverado 1500 Classic,2007,regular unleaded,195,6,MANUAL,four wheel drive,2,Flex Fuel,Large,Regular Cab Pickup,19,14,,23575
+Chevrolet,Silverado 1500 Classic,2007,regular unleaded,310,8,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,Extended Cab Pickup,18,13,,33425
+Chevrolet,Silverado 1500 Classic,2007,flex-fuel (unleaded/E85),295,8,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,Crew Cab Pickup,18,13,,33395
+Chevrolet,Silverado 1500 Classic,2007,regular unleaded,195,6,MANUAL,rear wheel drive,2,Flex Fuel,Large,Regular Cab Pickup,21,15,,15840
+Chevrolet,Silverado 1500 Classic,2007,regular unleaded,295,8,AUTOMATIC,four wheel drive,4,,Large,Extended Cab Pickup,18,13,,33135
+Chevrolet,Silverado 1500 Classic,2007,regular unleaded,285,8,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,Extended Cab Pickup,18,14,,28410
+Chevrolet,Silverado 1500 Classic,2007,flex-fuel (unleaded/E85),295,8,AUTOMATIC,rear wheel drive,4,Flex Fuel,Large,Extended Cab Pickup,19,14,,28705
+Chevrolet,Silverado 1500 Classic,2007,regular unleaded,285,8,AUTOMATIC,rear wheel drive,2,Flex Fuel,Large,Regular Cab Pickup,19,15,,23640
+Chevrolet,Silverado 1500 Classic,2007,regular unleaded,195,6,MANUAL,rear wheel drive,2,Flex Fuel,Large,Regular Cab Pickup,21,15,,16115
+Chevrolet,Silverado 1500 Classic,2007,flex-fuel (unleaded/E85),295,8,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,Extended Cab Pickup,17,13,,28460
+Chevrolet,Silverado 1500 Classic,2007,flex-fuel (unleaded/E85),295,8,AUTOMATIC,rear wheel drive,4,Flex Fuel,Large,Crew Cab Pickup,19,14,,30570
+Chevrolet,Silverado 1500 Classic,2007,flex-fuel (unleaded/E85),295,8,AUTOMATIC,rear wheel drive,4,Flex Fuel,Large,Extended Cab Pickup,19,14,,25915
+Chevrolet,Silverado 1500 Classic,2007,flex-fuel (unleaded/E85),295,8,AUTOMATIC,rear wheel drive,4,Flex Fuel,Large,Extended Cab Pickup,19,14,,28995
+Chevrolet,Silverado 1500 Classic,2007,regular unleaded,295,8,AUTOMATIC,rear wheel drive,4,,Large,Extended Cab Pickup,19,14,,30315
+Chevrolet,Silverado 1500 Classic,2007,flex-fuel (unleaded/E85),295,8,AUTOMATIC,rear wheel drive,4,Flex Fuel,Large,Extended Cab Pickup,19,14,,30465
+Chevrolet,Silverado 1500 Classic,2007,regular unleaded,345,8,AUTOMATIC,rear wheel drive,4,,Large,Extended Cab Pickup,17,13,,33280
+Chevrolet,Silverado 1500 Classic,2007,regular unleaded,195,6,AUTOMATIC,rear wheel drive,4,Flex Fuel,Large,Extended Cab Pickup,20,14,,21465
+Chevrolet,Silverado 1500 Classic,2007,regular unleaded,310,8,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,Extended Cab Pickup,18,13,,31665
+Chevrolet,Silverado 1500 Classic,2007,regular unleaded,285,8,AUTOMATIC,four wheel drive,4,,Large,Crew Cab Pickup,18,14,,29980
+Chevrolet,Silverado 1500 Classic,2007,regular unleaded,195,6,MANUAL,four wheel drive,2,Flex Fuel,Large,Regular Cab Pickup,19,14,,19620
+Chevrolet,Silverado 1500 Classic,2007,flex-fuel (unleaded/E85),295,8,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,Extended Cab Pickup,17,13,,33575
+Chevrolet,Silverado 1500 Classic,2007,regular unleaded,285,8,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,Extended Cab Pickup,18,14,,27250
+Chevrolet,Silverado 1500 Classic,2007,regular unleaded,285,8,AUTOMATIC,four wheel drive,4,,Large,Crew Cab Pickup,18,14,,28485
+Chevrolet,Silverado 1500 Classic,2007,flex-fuel (unleaded/E85),295,8,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,Crew Cab Pickup,17,13,,35160
+Chevrolet,Silverado 1500 Classic,2007,regular unleaded,295,8,AUTOMATIC,rear wheel drive,4,,Large,Extended Cab Pickup,19,14,,28555
+Chevrolet,Silverado 1500 Hybrid,2011,regular unleaded,332,8,AUTOMATIC,four wheel drive,4,Hybrid,Large,Crew Cab Pickup,23,20,,48205
+Chevrolet,Silverado 1500 Hybrid,2011,regular unleaded,332,8,AUTOMATIC,rear wheel drive,4,Hybrid,Large,Crew Cab Pickup,23,20,,45055
+Chevrolet,Silverado 1500 Hybrid,2011,regular unleaded,332,8,AUTOMATIC,rear wheel drive,4,Hybrid,Large,Crew Cab Pickup,23,20,,38725
+Chevrolet,Silverado 1500 Hybrid,2011,regular unleaded,332,8,AUTOMATIC,four wheel drive,4,Hybrid,Large,Crew Cab Pickup,23,20,,41875
+Chevrolet,Silverado 1500 Hybrid,2012,regular unleaded,332,8,AUTOMATIC,four wheel drive,4,Hybrid,Large,Crew Cab Pickup,23,20,,42840
+Chevrolet,Silverado 1500 Hybrid,2012,regular unleaded,332,8,AUTOMATIC,four wheel drive,4,Hybrid,Large,Crew Cab Pickup,23,20,,49620
+Chevrolet,Silverado 1500 Hybrid,2012,regular unleaded,332,8,AUTOMATIC,rear wheel drive,4,Hybrid,Large,Crew Cab Pickup,23,20,,39640
+Chevrolet,Silverado 1500 Hybrid,2012,regular unleaded,332,8,AUTOMATIC,rear wheel drive,4,Hybrid,Large,Crew Cab Pickup,23,20,,46420
+Chevrolet,Silverado 1500 Hybrid,2013,regular unleaded,332,8,AUTOMATIC,four wheel drive,4,Hybrid,Large,Crew Cab Pickup,23,20,,51490
+Chevrolet,Silverado 1500 Hybrid,2013,regular unleaded,332,8,AUTOMATIC,rear wheel drive,4,Hybrid,Large,Crew Cab Pickup,23,20,,47915
+Chevrolet,Silverado 1500 Hybrid,2013,regular unleaded,332,8,AUTOMATIC,rear wheel drive,4,Hybrid,Large,Crew Cab Pickup,23,20,,41135
+Chevrolet,Silverado 1500 Hybrid,2013,regular unleaded,332,8,AUTOMATIC,four wheel drive,4,Hybrid,Large,Crew Cab Pickup,23,20,,44710
+Chevrolet,Silverado 1500,2015,regular unleaded,355,8,AUTOMATIC,four wheel drive,4,,Large,Crew Cab Pickup,22,16,,46110
+Chevrolet,Silverado 1500,2015,flex-fuel (unleaded/E85),285,6,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,Extended Cab Pickup,22,17,,35920
+Chevrolet,Silverado 1500,2015,flex-fuel (unleaded/E85),285,6,AUTOMATIC,rear wheel drive,2,Flex Fuel,Large,Regular Cab Pickup,24,18,,28545
+Chevrolet,Silverado 1500,2015,regular unleaded,355,8,AUTOMATIC,four wheel drive,4,,Large,Extended Cab Pickup,22,16,,43450
+Chevrolet,Silverado 1500,2015,flex-fuel (unleaded/E85),285,6,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,Crew Cab Pickup,22,17,,37680
+Chevrolet,Silverado 1500,2015,flex-fuel (unleaded/E85),285,6,AUTOMATIC,four wheel drive,2,Flex Fuel,Large,Regular Cab Pickup,22,17,,35435
+Chevrolet,Silverado 1500,2015,flex-fuel (unleaded/E85),285,6,AUTOMATIC,rear wheel drive,2,Flex Fuel,Large,Regular Cab Pickup,24,18,,33340
+Chevrolet,Silverado 1500,2015,flex-fuel (unleaded/E85),285,6,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,Crew Cab Pickup,22,17,,42010
+Chevrolet,Silverado 1500,2015,flex-fuel (unleaded/E85),285,6,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,Crew Cab Pickup,22,17,,42310
+Chevrolet,Silverado 1500,2015,regular unleaded,355,8,AUTOMATIC,rear wheel drive,4,,Large,Crew Cab Pickup,23,16,,47875
+Chevrolet,Silverado 1500,2015,regular unleaded,355,8,AUTOMATIC,rear wheel drive,4,,Large,Crew Cab Pickup,23,16,,42270
+Chevrolet,Silverado 1500,2015,regular unleaded,355,8,AUTOMATIC,four wheel drive,4,,Large,Crew Cab Pickup,22,16,,51150
+Chevrolet,Silverado 1500,2015,flex-fuel (unleaded/E85),285,6,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,Extended Cab Pickup,22,17,,34110
+Chevrolet,Silverado 1500,2015,flex-fuel (unleaded/E85),285,6,AUTOMATIC,four wheel drive,2,Flex Fuel,Large,Regular Cab Pickup,22,17,,35135
+Chevrolet,Silverado 1500,2015,flex-fuel (unleaded/E85),285,6,AUTOMATIC,four wheel drive,2,Flex Fuel,Large,Regular Cab Pickup,22,17,,30345
+Chevrolet,Silverado 1500,2015,flex-fuel (unleaded/E85),285,6,AUTOMATIC,four wheel drive,2,Flex Fuel,Large,Regular Cab Pickup,22,17,,32095
+Chevrolet,Silverado 1500,2015,flex-fuel (unleaded/E85),285,6,AUTOMATIC,rear wheel drive,4,Flex Fuel,Large,Extended Cab Pickup,24,18,,30130
+Chevrolet,Silverado 1500,2015,regular unleaded,355,8,AUTOMATIC,rear wheel drive,4,,Large,Crew Cab Pickup,23,16,,41970
+Chevrolet,Silverado 1500,2015,flex-fuel (unleaded/E85),285,6,AUTOMATIC,rear wheel drive,4,Flex Fuel,Large,Crew Cab Pickup,24,18,,34530
+Chevrolet,Silverado 1500,2015,regular unleaded,355,8,AUTOMATIC,four wheel drive,4,,Large,Crew Cab Pickup,22,16,,45420
+Chevrolet,Silverado 1500,2015,regular unleaded,355,8,AUTOMATIC,four wheel drive,4,,Large,Extended Cab Pickup,22,16,,42760
+Chevrolet,Silverado 1500,2015,flex-fuel (unleaded/E85),285,6,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,Crew Cab Pickup,22,17,,40620
+Chevrolet,Silverado 1500,2015,flex-fuel (unleaded/E85),285,6,AUTOMATIC,rear wheel drive,4,Flex Fuel,Large,Crew Cab Pickup,24,18,,36090
+Chevrolet,Silverado 1500,2015,flex-fuel (unleaded/E85),285,6,AUTOMATIC,rear wheel drive,2,Flex Fuel,Large,Regular Cab Pickup,24,18,,26495
+Chevrolet,Silverado 1500,2015,flex-fuel (unleaded/E85),285,6,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,Crew Cab Pickup,22,17,,40320
+Chevrolet,Silverado 1500,2015,flex-fuel (unleaded/E85),285,6,AUTOMATIC,rear wheel drive,2,Flex Fuel,Large,Regular Cab Pickup,24,18,,31625
+Chevrolet,Silverado 1500,2015,flex-fuel (unleaded/E85),285,6,AUTOMATIC,four wheel drive,2,Flex Fuel,Large,Regular Cab Pickup,22,17,,30045
+Chevrolet,Silverado 1500,2015,flex-fuel (unleaded/E85),285,6,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,Extended Cab Pickup,22,17,,37730
+Chevrolet,Silverado 1500,2015,flex-fuel (unleaded/E85),285,6,AUTOMATIC,rear wheel drive,4,Flex Fuel,Large,Crew Cab Pickup,24,18,,34230
+Chevrolet,Silverado 1500,2015,regular unleaded,355,8,AUTOMATIC,four wheel drive,4,,Large,Crew Cab Pickup,22,16,,45810
+Chevrolet,Silverado 1500,2015,flex-fuel (unleaded/E85),285,6,AUTOMATIC,rear wheel drive,4,Flex Fuel,Large,Crew Cab Pickup,24,18,,38635
+Chevrolet,Silverado 1500,2015,regular unleaded,355,8,AUTOMATIC,four wheel drive,4,,Large,Crew Cab Pickup,22,16,,50850
+Chevrolet,Silverado 1500,2015,flex-fuel (unleaded/E85),285,6,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,Extended Cab Pickup,22,17,,39420
+Chevrolet,Silverado 1500,2015,flex-fuel (unleaded/E85),285,6,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,Crew Cab Pickup,22,17,,37380
+Chevrolet,Silverado 1500,2015,regular unleaded,355,8,AUTOMATIC,rear wheel drive,4,,Large,Extended Cab Pickup,23,16,,40100
+Chevrolet,Silverado 1500,2015,regular unleaded,355,8,AUTOMATIC,rear wheel drive,4,,Large,Crew Cab Pickup,23,16,,42560
+Chevrolet,Silverado 1500,2015,regular unleaded,355,8,AUTOMATIC,rear wheel drive,4,,Large,Crew Cab Pickup,23,16,,42860
+Chevrolet,Silverado 1500,2015,regular unleaded,355,8,AUTOMATIC,four wheel drive,4,,Large,Crew Cab Pickup,22,16,,45120
+Chevrolet,Silverado 1500,2015,regular unleaded,355,8,AUTOMATIC,rear wheel drive,4,,Large,Crew Cab Pickup,23,16,,47575
+Chevrolet,Silverado 1500,2015,flex-fuel (unleaded/E85),285,6,AUTOMATIC,rear wheel drive,4,Flex Fuel,Large,Extended Cab Pickup,24,18,,31940
+Chevrolet,Silverado 1500,2015,flex-fuel (unleaded/E85),285,6,AUTOMATIC,rear wheel drive,4,Flex Fuel,Large,Crew Cab Pickup,24,18,,38335
+Chevrolet,Silverado 1500,2015,flex-fuel (unleaded/E85),285,6,AUTOMATIC,rear wheel drive,4,Flex Fuel,Large,Extended Cab Pickup,24,18,,35870
+Chevrolet,Silverado 1500,2015,flex-fuel (unleaded/E85),285,6,AUTOMATIC,rear wheel drive,2,Flex Fuel,Large,Regular Cab Pickup,24,18,,28155
+Chevrolet,Silverado 1500,2015,flex-fuel (unleaded/E85),285,6,AUTOMATIC,four wheel drive,2,Flex Fuel,Large,Regular Cab Pickup,22,17,,36825
+Chevrolet,Silverado 1500,2015,flex-fuel (unleaded/E85),285,6,AUTOMATIC,rear wheel drive,2,Flex Fuel,Large,Regular Cab Pickup,24,18,,26105
+Chevrolet,Silverado 1500,2015,flex-fuel (unleaded/E85),285,6,AUTOMATIC,four wheel drive,2,Flex Fuel,Large,Regular Cab Pickup,22,17,,37125
+Chevrolet,Silverado 1500,2015,flex-fuel (unleaded/E85),285,6,AUTOMATIC,rear wheel drive,2,Flex Fuel,Large,Regular Cab Pickup,24,18,,33215
+Chevrolet,Silverado 1500,2015,regular unleaded,355,8,AUTOMATIC,rear wheel drive,4,,Large,Extended Cab Pickup,23,16,,39510
+Chevrolet,Silverado 1500,2015,flex-fuel (unleaded/E85),285,6,AUTOMATIC,rear wheel drive,4,Flex Fuel,Large,Crew Cab Pickup,24,18,,36390
+Chevrolet,Silverado 1500,2015,flex-fuel (unleaded/E85),285,6,AUTOMATIC,rear wheel drive,4,Flex Fuel,Large,Crew Cab Pickup,24,18,,36745
+Chevrolet,Silverado 1500,2015,flex-fuel (unleaded/E85),285,6,AUTOMATIC,rear wheel drive,4,Flex Fuel,Large,Extended Cab Pickup,24,18,,34280
+Chevrolet,Silverado 1500,2015,flex-fuel (unleaded/E85),285,6,AUTOMATIC,four wheel drive,2,Flex Fuel,Large,Regular Cab Pickup,22,17,,32395
+Chevrolet,Silverado 1500,2015,flex-fuel (unleaded/E85),285,6,AUTOMATIC,rear wheel drive,2,Flex Fuel,Large,Regular Cab Pickup,24,18,1385,31750
+Chevrolet,Silverado 1500,2015,flex-fuel (unleaded/E85),285,6,AUTOMATIC,rear wheel drive,4,Flex Fuel,Large,Crew Cab Pickup,24,18,1385,37045
+Chevrolet,Silverado 1500,2015,flex-fuel (unleaded/E85),285,6,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,Crew Cab Pickup,22,17,1385,39540
+Chevrolet,Silverado 1500,2015,flex-fuel (unleaded/E85),285,6,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,Crew Cab Pickup,22,17,1385,39240
+Chevrolet,Silverado 1500,2016,flex-fuel (unleaded/E85),285,6,AUTOMATIC,rear wheel drive,4,Flex Fuel,Large,Extended Cab Pickup,24,18,1385,35825
+Chevrolet,Silverado 1500,2016,regular unleaded,355,8,AUTOMATIC,rear wheel drive,4,Flex Fuel,Large,Crew Cab Pickup,23,16,1385,39685
+Chevrolet,Silverado 1500,2016,flex-fuel (unleaded/E85),285,6,AUTOMATIC,four wheel drive,2,Flex Fuel,Large,Regular Cab Pickup,22,17,1385,31035
+Chevrolet,Silverado 1500,2016,flex-fuel (unleaded/E85),285,6,AUTOMATIC,rear wheel drive,4,Flex Fuel,Large,Extended Cab Pickup,24,18,1385,32870
+Chevrolet,Silverado 1500,2016,flex-fuel (unleaded/E85),285,6,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,Crew Cab Pickup,22,17,1385,43775
+Chevrolet,Silverado 1500,2016,flex-fuel (unleaded/E85),285,6,AUTOMATIC,rear wheel drive,4,Flex Fuel,Large,Crew Cab Pickup,24,18,1385,35545
+Chevrolet,Silverado 1500,2016,flex-fuel (unleaded/E85),285,6,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,Extended Cab Pickup,22,17,1385,36935
+Chevrolet,Silverado 1500,2016,flex-fuel (unleaded/E85),285,6,AUTOMATIC,four wheel drive,2,Flex Fuel,Large,Regular Cab Pickup,22,17,1385,38590
+Chevrolet,Silverado 1500,2016,regular unleaded,355,8,AUTOMATIC,rear wheel drive,4,,Large,Extended Cab Pickup,23,16,1385,41250
+Chevrolet,Silverado 1500,2016,flex-fuel (unleaded/E85),285,6,AUTOMATIC,rear wheel drive,4,Flex Fuel,Large,Extended Cab Pickup,24,18,1385,31120
+Chevrolet,Silverado 1500,2016,regular unleaded,355,8,AUTOMATIC,four wheel drive,4,,Large,Crew Cab Pickup,22,16,1385,47135
+Chevrolet,Silverado 1500,2016,regular unleaded,355,8,AUTOMATIC,four wheel drive,4,,Large,Crew Cab Pickup,22,16,1385,48500
+Chevrolet,Silverado 1500,2016,regular unleaded,355,8,AUTOMATIC,four wheel drive,4,,Large,Extended Cab Pickup,22,16,1385,44475
+Chevrolet,Silverado 1500,2016,flex-fuel (unleaded/E85),285,6,AUTOMATIC,rear wheel drive,2,Flex Fuel,Large,Regular Cab Pickup,24,18,1385,33170
+Chevrolet,Silverado 1500,2016,regular unleaded,355,8,AUTOMATIC,four wheel drive,4,,Large,Crew Cab Pickup,22,16,1385,46835
+Chevrolet,Silverado 1500,2016,flex-fuel (unleaded/E85),285,6,AUTOMATIC,four wheel drive,2,Flex Fuel,Large,Regular Cab Pickup,22,17,1385,33060
+Chevrolet,Silverado 1500,2016,regular unleaded,355,8,AUTOMATIC,four wheel drive,4,,Large,Crew Cab Pickup,22,16,1385,53315
+Chevrolet,Silverado 1500,2016,flex-fuel (unleaded/E85),285,6,AUTOMATIC,rear wheel drive,4,Flex Fuel,Large,Crew Cab Pickup,24,18,1385,38290
+Chevrolet,Silverado 1500,2016,flex-fuel (unleaded/E85),285,6,AUTOMATIC,four wheel drive,2,Flex Fuel,Large,Regular Cab Pickup,22,17,1385,31335
+Chevrolet,Silverado 1500,2016,flex-fuel (unleaded/E85),285,6,AUTOMATIC,rear wheel drive,2,Flex Fuel,Large,Regular Cab Pickup,24,18,1385,33295
+Chevrolet,Silverado 1500,2016,regular unleaded,355,8,AUTOMATIC,rear wheel drive,4,Flex Fuel,Large,Crew Cab Pickup,23,16,1385,38740
+Chevrolet,Silverado 1500,2016,flex-fuel (unleaded/E85),285,6,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,Extended Cab Pickup,22,17,1385,41185
+Chevrolet,Silverado 1500,2016,regular unleaded,355,8,AUTOMATIC,rear wheel drive,4,,Large,Crew Cab Pickup,23,16,1385,43710
+Chevrolet,Silverado 1500,2016,flex-fuel (unleaded/E85),285,6,AUTOMATIC,rear wheel drive,2,Flex Fuel,Large,Regular Cab Pickup,24,18,1385,27485
+Chevrolet,Silverado 1500,2016,flex-fuel (unleaded/E85),285,6,AUTOMATIC,four wheel drive,2,Flex Fuel,Large,Regular Cab Pickup,22,17,1385,36980
+Chevrolet,Silverado 1500,2016,regular unleaded,355,8,AUTOMATIC,rear wheel drive,4,,Large,Crew Cab Pickup,23,16,1385,44010
+Chevrolet,Silverado 1500,2016,flex-fuel (unleaded/E85),285,6,AUTOMATIC,four wheel drive,2,Flex Fuel,Large,Regular Cab Pickup,22,17,1385,33360
+Chevrolet,Silverado 1500,2016,regular unleaded,355,8,AUTOMATIC,four wheel drive,4,,Large,Extended Cab Pickup,22,16,1385,45640
+Chevrolet,Silverado 1500,2016,regular unleaded,355,8,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,Crew Cab Pickup,22,16,1385,45170
+Chevrolet,Silverado 1500,2016,flex-fuel (unleaded/E85),285,6,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,Extended Cab Pickup,22,17,1385,35100
+Chevrolet,Silverado 1500,2016,flex-fuel (unleaded/E85),285,6,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,Extended Cab Pickup,22,17,1385,39275
+Chevrolet,Silverado 1500,2016,regular unleaded,355,8,AUTOMATIC,rear wheel drive,4,,Large,Crew Cab Pickup,23,16,1385,49740
+Chevrolet,Silverado 1500,2016,regular unleaded,355,8,AUTOMATIC,rear wheel drive,4,,Large,Crew Cab Pickup,23,16,1385,50040
+Chevrolet,Silverado 1500,2016,flex-fuel (unleaded/E85),285,6,AUTOMATIC,rear wheel drive,2,Flex Fuel,Large,Regular Cab Pickup,24,18,1385,29510
+Chevrolet,Silverado 1500,2016,flex-fuel (unleaded/E85),285,6,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,Extended Cab Pickup,22,17,1385,36850
+Chevrolet,Silverado 1500,2016,regular unleaded,355,8,AUTOMATIC,four wheel drive,4,,Large,Crew Cab Pickup,22,16,1385,48200
+Chevrolet,Silverado 1500,2016,flex-fuel (unleaded/E85),285,6,AUTOMATIC,four wheel drive,2,Flex Fuel,Large,Regular Cab Pickup,22,17,1385,38890
+Chevrolet,Silverado 1500,2016,flex-fuel (unleaded/E85),285,6,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,Crew Cab Pickup,22,17,1385,38695
+Chevrolet,Silverado 1500,2016,regular unleaded,355,8,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,Crew Cab Pickup,22,16,1385,40090
+Chevrolet,Silverado 1500,2016,regular unleaded,355,8,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,Crew Cab Pickup,22,16,1385,41890
+Chevrolet,Silverado 1500,2016,regular unleaded,355,8,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,Crew Cab Pickup,22,16,1385,43260
+Chevrolet,Silverado 1500,2016,flex-fuel (unleaded/E85),285,6,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,Crew Cab Pickup,22,17,1385,41865
+Chevrolet,Silverado 1500,2016,regular unleaded,355,8,AUTOMATIC,four wheel drive,4,,Large,Crew Cab Pickup,22,16,1385,53015
+Chevrolet,Silverado 1500,2016,flex-fuel (unleaded/E85),285,6,AUTOMATIC,four wheel drive,2,Flex Fuel,Large,Regular Cab Pickup,22,17,1385,36680
+Chevrolet,Silverado 1500,2016,regular unleaded,355,8,AUTOMATIC,rear wheel drive,4,Flex Fuel,Large,Crew Cab Pickup,23,16,1385,36940
+Chevrolet,Silverado 1500,2016,flex-fuel (unleaded/E85),285,6,AUTOMATIC,rear wheel drive,4,Flex Fuel,Large,Extended Cab Pickup,24,18,1385,32955
+Chevrolet,Silverado 1500,2016,flex-fuel (unleaded/E85),285,6,AUTOMATIC,rear wheel drive,2,Flex Fuel,Large,Regular Cab Pickup,24,18,1385,29120
+Chevrolet,Silverado 1500,2016,flex-fuel (unleaded/E85),285,6,AUTOMATIC,rear wheel drive,4,Flex Fuel,Large,Crew Cab Pickup,24,18,1385,37345
+Chevrolet,Silverado 1500,2016,flex-fuel (unleaded/E85),285,6,AUTOMATIC,rear wheel drive,2,Flex Fuel,Large,Regular Cab Pickup,24,18,1385,27095
+Chevrolet,Silverado 1500,2016,flex-fuel (unleaded/E85),285,6,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,Crew Cab Pickup,22,17,1385,40495
+Chevrolet,Silverado 1500,2017,flex-fuel (unleaded/E85),285,6,AUTOMATIC,rear wheel drive,4,Flex Fuel,Large,Crew Cab Pickup,24,18,1385,36035
+Chevrolet,Silverado 1500,2017,flex-fuel (unleaded/E85),285,6,AUTOMATIC,rear wheel drive,4,Flex Fuel,Large,Crew Cab Pickup,24,18,1385,37835
+Chevrolet,Silverado 1500,2017,regular unleaded,355,8,AUTOMATIC,rear wheel drive,4,Flex Fuel,Large,Crew Cab Pickup,23,16,1385,39230
+Chevrolet,Silverado 1500,2017,flex-fuel (unleaded/E85),285,6,AUTOMATIC,rear wheel drive,4,Flex Fuel,Large,Crew Cab Pickup,24,18,1385,38980
+Chevrolet,Silverado 1500,2017,flex-fuel (unleaded/E85),285,6,AUTOMATIC,rear wheel drive,4,Flex Fuel,Large,Extended Cab Pickup,24,18,1385,36515
+Chevrolet,Silverado 1500,2017,regular unleaded,355,8,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,Crew Cab Pickup,22,16,1385,43950
+Chevrolet,Silverado 1500,2017,flex-fuel (unleaded/E85),285,6,AUTOMATIC,four wheel drive,2,Flex Fuel,Large,Regular Cab Pickup,22,17,1385,31525
+Chevrolet,Silverado 1500,2017,flex-fuel (unleaded/E85),285,6,AUTOMATIC,four wheel drive,2,Flex Fuel,Large,Regular Cab Pickup,22,17,1385,33850
+Chevrolet,Silverado 1500,2017,regular unleaded,355,8,AUTOMATIC,rear wheel drive,4,,Large,Crew Cab Pickup,22,16,1385,44350
+Chevrolet,Silverado 1500,2017,regular unleaded,355,8,AUTOMATIC,four wheel drive,4,,Large,Crew Cab Pickup,20,15,1385,47175
+Chevrolet,Silverado 1500,2017,flex-fuel (unleaded/E85),285,6,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,Crew Cab Pickup,22,17,1385,44465
+Chevrolet,Silverado 1500,2017,flex-fuel (unleaded/E85),285,6,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,Extended Cab Pickup,22,17,1385,42075
+Chevrolet,Silverado 1500,2017,regular unleaded,355,8,AUTOMATIC,four wheel drive,4,,Large,Crew Cab Pickup,20,15,1385,47475
+Chevrolet,Silverado 1500,2017,regular unleaded,355,8,AUTOMATIC,four wheel drive,4,,Large,Extended Cab Pickup,20,15,1385,46180
+Chevrolet,Silverado 1500,2017,flex-fuel (unleaded/E85),285,6,AUTOMATIC,four wheel drive,2,Flex Fuel,Large,Regular Cab Pickup,22,17,1385,33550
+Chevrolet,Silverado 1500,2017,flex-fuel (unleaded/E85),285,6,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,Extended Cab Pickup,22,17,1385,39965
+Chevrolet,Silverado 1500,2017,flex-fuel (unleaded/E85),285,6,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,Extended Cab Pickup,22,17,1385,35590
+Chevrolet,Silverado 1500,2017,flex-fuel (unleaded/E85),285,6,AUTOMATIC,rear wheel drive,2,Flex Fuel,Large,Regular Cab Pickup,24,18,1385,27975
+Chevrolet,Silverado 1500,2017,regular unleaded,355,8,AUTOMATIC,rear wheel drive,4,,Large,Extended Cab Pickup,22,16,1385,41590
+Chevrolet,Silverado 1500,2017,regular unleaded,355,8,AUTOMATIC,rear wheel drive,4,,Large,Crew Cab Pickup,22,16,1385,44050
+Chevrolet,Silverado 1500,2017,flex-fuel (unleaded/E85),285,6,AUTOMATIC,four wheel drive,2,Flex Fuel,Large,Regular Cab Pickup,22,17,1385,37370
+Chevrolet,Silverado 1500,2017,regular unleaded,355,8,AUTOMATIC,four wheel drive,4,,Large,Crew Cab Pickup,22,15,1385,54925
+Chevrolet,Silverado 1500,2017,flex-fuel (unleaded/E85),285,6,AUTOMATIC,rear wheel drive,2,Flex Fuel,Large,Regular Cab Pickup,24,18,1385,27585
+Chevrolet,Silverado 1500,2017,flex-fuel (unleaded/E85),285,6,AUTOMATIC,rear wheel drive,2,Flex Fuel,Large,Regular Cab Pickup,24,18,1385,33860
+Chevrolet,Silverado 1500,2017,flex-fuel (unleaded/E85),285,6,AUTOMATIC,rear wheel drive,4,Flex Fuel,Large,Extended Cab Pickup,24,18,1385,33445
+Chevrolet,Silverado 1500,2017,regular unleaded,355,8,AUTOMATIC,four wheel drive,4,,Large,Crew Cab Pickup,20,15,1385,48740
+Chevrolet,Silverado 1500,2017,regular unleaded,355,8,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,Crew Cab Pickup,22,16,1385,45860
+Chevrolet,Silverado 1500,2017,regular unleaded,355,8,AUTOMATIC,rear wheel drive,4,Flex Fuel,Large,Crew Cab Pickup,23,16,1385,40375
+Chevrolet,Silverado 1500,2017,regular unleaded,355,8,AUTOMATIC,four wheel drive,4,,Large,Crew Cab Pickup,22,15,1385,54625
+Chevrolet,Silverado 1500,2017,regular unleaded,355,8,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,Crew Cab Pickup,22,16,1385,42380
+Chevrolet,Silverado 1500,2017,flex-fuel (unleaded/E85),285,6,AUTOMATIC,rear wheel drive,2,Flex Fuel,Large,Regular Cab Pickup,24,18,1385,29610
+Chevrolet,Silverado 1500,2017,regular unleaded,355,8,AUTOMATIC,rear wheel drive,4,,Large,Crew Cab Pickup,22,16,1385,51350
+Chevrolet,Silverado 1500,2017,flex-fuel (unleaded/E85),285,6,AUTOMATIC,rear wheel drive,2,Flex Fuel,Large,Regular Cab Pickup,24,18,1385,30000
+Chevrolet,Silverado 1500,2017,regular unleaded,355,8,AUTOMATIC,rear wheel drive,4,Flex Fuel,Large,Crew Cab Pickup,23,16,1385,37430
+Chevrolet,Silverado 1500,2017,flex-fuel (unleaded/E85),285,6,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,Crew Cab Pickup,22,17,1385,40985
+Chevrolet,Silverado 1500,2017,flex-fuel (unleaded/E85),285,6,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,Crew Cab Pickup,22,17,1385,39185
+Chevrolet,Silverado 1500,2017,flex-fuel (unleaded/E85),285,6,AUTOMATIC,four wheel drive,2,Flex Fuel,Large,Regular Cab Pickup,22,17,1385,37670
+Chevrolet,Silverado 1500,2017,regular unleaded,355,8,AUTOMATIC,four wheel drive,4,,Large,Extended Cab Pickup,20,15,1385,44815
+Chevrolet,Silverado 1500,2017,flex-fuel (unleaded/E85),285,6,AUTOMATIC,four wheel drive,2,Flex Fuel,Large,Regular Cab Pickup,22,17,1385,31825
+Chevrolet,Silverado 1500,2017,flex-fuel (unleaded/E85),285,6,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,Extended Cab Pickup,22,17,1385,37425
+Chevrolet,Silverado 1500,2017,regular unleaded,355,8,AUTOMATIC,rear wheel drive,4,,Large,Crew Cab Pickup,22,16,1385,51650
+Chevrolet,Silverado 1500,2017,regular unleaded,355,8,AUTOMATIC,four wheel drive,4,,Large,Crew Cab Pickup,20,15,1385,49040
+Chevrolet,Silverado 1500,2017,flex-fuel (unleaded/E85),285,6,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,Extended Cab Pickup,22,17,1385,37340
+Chevrolet,Silverado 1500,2017,flex-fuel (unleaded/E85),285,6,AUTOMATIC,four wheel drive,2,Flex Fuel,Large,Regular Cab Pickup,22,17,1385,39280
+Chevrolet,Silverado 1500,2017,flex-fuel (unleaded/E85),285,6,AUTOMATIC,rear wheel drive,2,Flex Fuel,Large,Regular Cab Pickup,24,18,1385,33985
+Chevrolet,Silverado 1500,2017,regular unleaded,355,8,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,Crew Cab Pickup,22,16,1385,40580
+Chevrolet,Silverado 1500,2017,flex-fuel (unleaded/E85),285,6,AUTOMATIC,rear wheel drive,4,Flex Fuel,Large,Extended Cab Pickup,24,18,1385,31610
+Chevrolet,Silverado 1500,2017,flex-fuel (unleaded/E85),285,6,AUTOMATIC,four wheel drive,2,Flex Fuel,Large,Regular Cab Pickup,22,17,1385,39580
+Chevrolet,Silverado 1500,2017,flex-fuel (unleaded/E85),285,6,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,Crew Cab Pickup,22,17,1385,42555
+Chevrolet,Silverado 1500,2017,flex-fuel (unleaded/E85),285,6,AUTOMATIC,rear wheel drive,4,Flex Fuel,Large,Extended Cab Pickup,24,18,1385,33360
+Chevrolet,Sonic,2015,regular unleaded,138,4,AUTOMATIC,front wheel drive,4,,Compact,Sedan,35,25,1385,15495
+Chevrolet,Sonic,2015,regular unleaded,138,4,AUTOMATIC,front wheel drive,4,Hatchback,Compact,4dr Hatchback,33,25,1385,21945
+Chevrolet,Sonic,2015,regular unleaded,138,4,AUTOMATIC,front wheel drive,4,Hatchback,Compact,4dr Hatchback,35,25,1385,16095
+Chevrolet,Sonic,2015,regular unleaded,138,4,MANUAL,front wheel drive,4,Hatchback,Compact,4dr Hatchback,40,29,1385,18835
+Chevrolet,Sonic,2015,regular unleaded,138,4,AUTOMATIC,front wheel drive,4,,Compact,Sedan,33,25,1385,21345
+Chevrolet,Sonic,2015,regular unleaded,138,4,MANUAL,front wheel drive,4,Hatchback,Compact,4dr Hatchback,35,26,1385,14845
+Chevrolet,Sonic,2015,regular unleaded,138,4,MANUAL,front wheel drive,4,,Compact,Sedan,40,29,1385,18235
+Chevrolet,Sonic,2015,regular unleaded,138,4,AUTOMATIC,front wheel drive,4,Hatchback,Compact,4dr Hatchback,35,25,1385,17845
+Chevrolet,Sonic,2015,regular unleaded,138,4,AUTOMATIC,front wheel drive,4,,Compact,Sedan,35,25,1385,17245
+Chevrolet,Sonic,2015,regular unleaded,138,4,AUTOMATIC,front wheel drive,4,,Compact,Sedan,37,27,1385,19680
+Chevrolet,Sonic,2015,regular unleaded,138,4,MANUAL,front wheel drive,4,Hatchback,Compact,4dr Hatchback,34,27,1385,20545
+Chevrolet,Sonic,2015,regular unleaded,138,4,MANUAL,front wheel drive,4,,Compact,Sedan,35,26,1385,14245
+Chevrolet,Sonic,2015,regular unleaded,138,4,AUTOMATIC,front wheel drive,4,Hatchback,Compact,4dr Hatchback,37,27,1385,20245
+Chevrolet,Sonic,2015,regular unleaded,138,4,MANUAL,front wheel drive,4,,Compact,Sedan,34,27,1385,19945
+Chevrolet,Sonic,2015,regular unleaded,138,4,MANUAL,front wheel drive,4,Hatchback,Compact,4dr Hatchback,35,26,1385,16455
+Chevrolet,Sonic,2015,regular unleaded,138,4,MANUAL,front wheel drive,4,,Compact,Sedan,35,26,1385,15855
+Chevrolet,Sonic,2016,regular unleaded,138,4,MANUAL,front wheel drive,4,,Compact,Sedan,35,26,1385,16155
+Chevrolet,Sonic,2016,regular unleaded,138,4,MANUAL,front wheel drive,4,,Compact,Sedan,34,27,1385,20095
+Chevrolet,Sonic,2016,regular unleaded,138,4,AUTOMATIC,front wheel drive,4,Hatchback,Compact,4dr Hatchback,35,24,1385,18145
+Chevrolet,Sonic,2016,regular unleaded,138,4,AUTOMATIC,front wheel drive,4,,Compact,Sedan,35,24,1385,15595
+Chevrolet,Sonic,2016,regular unleaded,138,4,AUTOMATIC,front wheel drive,4,Hatchback,Compact,4dr Hatchback,37,27,1385,20345
+Chevrolet,Sonic,2016,regular unleaded,138,4,MANUAL,front wheel drive,4,Hatchback,Compact,4dr Hatchback,35,26,1385,16755
+Chevrolet,Sonic,2016,regular unleaded,138,4,AUTOMATIC,front wheel drive,4,,Compact,Sedan,37,27,1385,19780
+Chevrolet,Sonic,2016,regular unleaded,138,4,MANUAL,front wheel drive,4,Hatchback,Compact,4dr Hatchback,34,27,1385,20095
+Chevrolet,Sonic,2016,regular unleaded,138,4,AUTOMATIC,front wheel drive,4,,Compact,Sedan,33,25,1385,21495
+Chevrolet,Sonic,2016,regular unleaded,138,4,MANUAL,front wheel drive,4,,Compact,Sedan,35,26,1385,14345
+Chevrolet,Sonic,2016,regular unleaded,138,4,AUTOMATIC,front wheel drive,4,,Compact,Sedan,35,24,1385,17545
+Chevrolet,Sonic,2016,regular unleaded,138,4,MANUAL,front wheel drive,4,Hatchback,Compact,4dr Hatchback,35,26,1385,14945
+Chevrolet,Sonic,2016,regular unleaded,138,4,AUTOMATIC,front wheel drive,4,Hatchback,Compact,4dr Hatchback,35,24,1385,16195
+Chevrolet,Sonic,2016,regular unleaded,138,4,AUTOMATIC,front wheel drive,4,Hatchback,Compact,4dr Hatchback,33,25,1385,21495
+Chevrolet,Sonic,2017,regular unleaded,138,4,AUTOMATIC,front wheel drive,4,,Compact,Sedan,34,24,1385,18170
+Chevrolet,Sonic,2017,regular unleaded,138,4,AUTOMATIC,front wheel drive,4,Hatchback,Compact,4dr Hatchback,36,27,1385,21215
+Chevrolet,Sonic,2017,regular unleaded,138,4,MANUAL,front wheel drive,4,Hatchback,Compact,4dr Hatchback,33,25,1385,17580
+Chevrolet,Sonic,2017,regular unleaded,138,4,AUTOMATIC,front wheel drive,4,Hatchback,Compact,4dr Hatchback,34,24,1385,18970
+Chevrolet,Sonic,2017,regular unleaded,138,4,AUTOMATIC,front wheel drive,4,,Compact,Sedan,34,24,1385,16395
+Chevrolet,Sonic,2017,regular unleaded,138,4,AUTOMATIC,front wheel drive,4,,Compact,Sedan,36,27,1385,20415
+Chevrolet,Sonic,2017,regular unleaded,138,4,MANUAL,front wheel drive,4,,Compact,Sedan,39,28,1385,19720
+Chevrolet,Sonic,2017,regular unleaded,138,4,MANUAL,front wheel drive,4,,Compact,Sedan,39,28,1385,17530
+Chevrolet,Sonic,2017,regular unleaded,138,4,MANUAL,front wheel drive,4,Hatchback,Compact,4dr Hatchback,39,28,1385,19720
+Chevrolet,Sonic,2017,regular unleaded,138,4,MANUAL,front wheel drive,4,,Compact,Sedan,33,25,1385,15145
+Chevrolet,Spark EV,2014,electric,140,0,DIRECT_DRIVE,front wheel drive,4,Hatchback,Compact,4dr Hatchback,109,128,1385,26685
+Chevrolet,Spark EV,2014,electric,140,0,DIRECT_DRIVE,front wheel drive,4,Hatchback,Compact,4dr Hatchback,109,128,1385,27010
+Chevrolet,Spark EV,2015,electric,140,0,DIRECT_DRIVE,front wheel drive,4,Hatchback,Compact,4dr Hatchback,109,128,1385,25170
+Chevrolet,Spark EV,2015,electric,140,0,DIRECT_DRIVE,front wheel drive,4,Hatchback,Compact,4dr Hatchback,109,128,1385,25560
+Chevrolet,Spark EV,2016,electric,140,0,DIRECT_DRIVE,front wheel drive,4,Hatchback,Compact,4dr Hatchback,109,128,1385,25510
+Chevrolet,Spark EV,2016,electric,140,0,DIRECT_DRIVE,front wheel drive,4,Hatchback,Compact,4dr Hatchback,109,128,1385,25120
+Chevrolet,Spark,2015,regular unleaded,84,4,MANUAL,front wheel drive,4,Hatchback,Compact,4dr Hatchback,39,31,1385,14040
+Chevrolet,Spark,2015,regular unleaded,84,4,AUTOMATIC,front wheel drive,4,Hatchback,Compact,4dr Hatchback,39,30,1385,15095
+Chevrolet,Spark,2015,regular unleaded,84,4,MANUAL,front wheel drive,4,Hatchback,Compact,4dr Hatchback,39,31,1385,15440
+Chevrolet,Spark,2015,regular unleaded,84,4,MANUAL,front wheel drive,4,Hatchback,Compact,4dr Hatchback,39,31,1385,12270
+Chevrolet,Spark,2015,regular unleaded,84,4,AUTOMATIC,front wheel drive,4,Hatchback,Compact,4dr Hatchback,39,30,1385,13580
+Chevrolet,Spark,2015,regular unleaded,84,4,AUTOMATIC,front wheel drive,4,Hatchback,Compact,4dr Hatchback,39,30,1385,16535
+Chevrolet,Spark,2016,regular unleaded,98,4,MANUAL,front wheel drive,4,Hatchback,Compact,4dr Hatchback,41,30,1385,14685
+Chevrolet,Spark,2016,regular unleaded,98,4,AUTOMATIC,front wheel drive,4,Hatchback,Compact,4dr Hatchback,41,31,1385,17285
+Chevrolet,Spark,2016,regular unleaded,98,4,AUTOMATIC,front wheel drive,4,Hatchback,Compact,4dr Hatchback,41,31,1385,15785
+Chevrolet,Spark,2016,regular unleaded,98,4,AUTOMATIC,front wheel drive,4,Hatchback,Compact,4dr Hatchback,41,31,1385,13760
+Chevrolet,Spark,2016,regular unleaded,98,4,MANUAL,front wheel drive,4,Hatchback,Compact,4dr Hatchback,41,30,1385,12660
+Chevrolet,Spark,2016,regular unleaded,98,4,MANUAL,front wheel drive,4,Hatchback,Compact,4dr Hatchback,41,30,1385,16185
+Chevrolet,Spark,2017,regular unleaded,98,4,MANUAL,front wheel drive,4,Hatchback,Compact,4dr Hatchback,38,29,1385,16325
+Chevrolet,Spark,2017,regular unleaded,98,4,MANUAL,front wheel drive,4,Hatchback,Compact,4dr Hatchback,38,29,1385,13000
+Chevrolet,Spark,2017,regular unleaded,98,4,AUTOMATIC,front wheel drive,4,Hatchback,Compact,4dr Hatchback,38,30,1385,14100
+Chevrolet,Spark,2017,regular unleaded,98,4,AUTOMATIC,front wheel drive,4,Hatchback,Compact,4dr Hatchback,38,30,1385,15925
+Chevrolet,Spark,2017,regular unleaded,98,4,MANUAL,front wheel drive,4,Hatchback,Compact,4dr Hatchback,38,29,1385,14825
+Chevrolet,Spark,2017,regular unleaded,98,4,AUTOMATIC,front wheel drive,4,Hatchback,Compact,4dr Hatchback,38,30,1385,17425
+Chevrolet,Sportvan,1994,regular unleaded,200,8,AUTOMATIC,rear wheel drive,3,,Midsize,Passenger Van,16,11,1385,2000
+Chevrolet,Sportvan,1994,regular unleaded,200,8,AUTOMATIC,rear wheel drive,3,,Midsize,Passenger Van,16,11,1385,2000
+Chevrolet,Sportvan,1994,regular unleaded,200,8,AUTOMATIC,rear wheel drive,3,,Large,Passenger Van,16,11,1385,2000
+Chevrolet,Sportvan,1994,regular unleaded,200,8,AUTOMATIC,rear wheel drive,3,,Large,Passenger Van,16,11,1385,2000
+Chevrolet,Sportvan,1994,regular unleaded,155,6,AUTOMATIC,rear wheel drive,3,,Midsize,Passenger Van,17,14,1385,2000
+Chevrolet,Sportvan,1994,regular unleaded,155,6,AUTOMATIC,rear wheel drive,3,,Midsize,Passenger Van,17,14,1385,2000
+Chevrolet,Sportvan,1995,regular unleaded,163,6,AUTOMATIC,rear wheel drive,3,,Midsize,Passenger Van,15,13,1385,2000
+Chevrolet,Sportvan,1995,regular unleaded,163,6,AUTOMATIC,rear wheel drive,3,,Midsize,Passenger Van,15,13,1385,2000
+Chevrolet,SS,2014,premium unleaded (recommended),415,8,AUTOMATIC,rear wheel drive,4,High-Performance,Large,Sedan,21,14,1385,43475
+Chevrolet,SS,2015,premium unleaded (recommended),415,8,AUTOMATIC,rear wheel drive,4,High-Performance,Large,Sedan,21,14,1385,45745
+Chevrolet,SS,2016,premium unleaded (recommended),415,8,AUTOMATIC,rear wheel drive,4,High-Performance,Large,Sedan,20,14,1385,46575
+Chevrolet,SSR,2004,regular unleaded,300,8,AUTOMATIC,rear wheel drive,2,Performance,Compact,Regular Cab Pickup,18,14,1385,41620
+Chevrolet,SSR,2005,regular unleaded,395,8,AUTOMATIC,rear wheel drive,2,Performance,Compact,Regular Cab Pickup,18,14,1385,42555
+Chevrolet,SSR,2006,regular unleaded,395,8,AUTOMATIC,rear wheel drive,2,High-Performance,Compact,Regular Cab Pickup,18,14,1385,39240
+Chevrolet,Suburban,2015,flex-fuel (unleaded/E85),355,8,AUTOMATIC,rear wheel drive,4,Flex Fuel,Large,4dr SUV,23,16,1385,54205
+Chevrolet,Suburban,2015,flex-fuel (unleaded/E85),355,8,AUTOMATIC,rear wheel drive,4,"Flex Fuel,Performance",Large,4dr SUV,23,16,1385,63785
+Chevrolet,Suburban,2015,flex-fuel (unleaded/E85),355,8,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,4dr SUV,22,15,1385,57205
+Chevrolet,Suburban,2015,flex-fuel (unleaded/E85),355,8,AUTOMATIC,four wheel drive,4,"Flex Fuel,Performance",Large,4dr SUV,22,15,1385,66785
+Chevrolet,Suburban,2015,flex-fuel (unleaded/E85),355,8,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,4dr SUV,22,15,1385,52000
+Chevrolet,Suburban,2015,flex-fuel (unleaded/E85),355,8,AUTOMATIC,rear wheel drive,4,Flex Fuel,Large,4dr SUV,23,16,1385,49000
+Chevrolet,Suburban,2016,flex-fuel (unleaded/E85),355,8,AUTOMATIC,rear wheel drive,4,"Flex Fuel,Performance",Large,4dr SUV,23,16,1385,54730
+Chevrolet,Suburban,2016,flex-fuel (unleaded/E85),355,8,AUTOMATIC,four wheel drive,4,"Flex Fuel,Performance",Large,4dr SUV,22,15,1385,57730
+Chevrolet,Suburban,2016,flex-fuel (unleaded/E85),355,8,AUTOMATIC,rear wheel drive,4,"Flex Fuel,Performance",Large,4dr SUV,23,16,1385,64440
+Chevrolet,Suburban,2016,flex-fuel (unleaded/E85),355,8,AUTOMATIC,four wheel drive,4,"Flex Fuel,Performance",Large,4dr SUV,22,15,1385,52700
+Chevrolet,Suburban,2016,flex-fuel (unleaded/E85),355,8,AUTOMATIC,rear wheel drive,4,"Flex Fuel,Performance",Large,4dr SUV,23,16,1385,49700
+Chevrolet,Suburban,2016,flex-fuel (unleaded/E85),355,8,AUTOMATIC,four wheel drive,4,"Flex Fuel,Performance",Large,4dr SUV,22,15,1385,67440
+Chevrolet,Suburban,2017,flex-fuel (unleaded/E85),355,8,AUTOMATIC,four wheel drive,4,"Flex Fuel,Performance",Large,4dr SUV,22,15,1385,58045
+Chevrolet,Suburban,2017,flex-fuel (unleaded/E85),355,8,AUTOMATIC,rear wheel drive,4,"Flex Fuel,Performance",Large,4dr SUV,23,16,1385,49915
+Chevrolet,Suburban,2017,flex-fuel (unleaded/E85),355,8,AUTOMATIC,four wheel drive,4,"Flex Fuel,Performance",Large,4dr SUV,22,15,1385,67730
+Chevrolet,Suburban,2017,flex-fuel (unleaded/E85),355,8,AUTOMATIC,four wheel drive,4,"Flex Fuel,Performance",Large,4dr SUV,22,15,1385,52915
+Chevrolet,Suburban,2017,flex-fuel (unleaded/E85),355,8,AUTOMATIC,rear wheel drive,4,"Flex Fuel,Performance",Large,4dr SUV,23,16,1385,55045
+Chevrolet,Suburban,2017,flex-fuel (unleaded/E85),355,8,AUTOMATIC,rear wheel drive,4,"Flex Fuel,Performance",Large,4dr SUV,23,16,1385,64730
+Chevrolet,Tahoe Hybrid,2011,regular unleaded,332,8,AUTOMATIC,rear wheel drive,4,Hybrid,Large,4dr SUV,23,20,1385,51145
+Chevrolet,Tahoe Hybrid,2011,regular unleaded,332,8,AUTOMATIC,four wheel drive,4,Hybrid,Large,4dr SUV,23,20,1385,53950
+Chevrolet,Tahoe Hybrid,2012,regular unleaded,332,8,AUTOMATIC,four wheel drive,4,Hybrid,Large,4dr SUV,23,20,1385,54775
+Chevrolet,Tahoe Hybrid,2012,regular unleaded,332,8,AUTOMATIC,rear wheel drive,4,Hybrid,Large,4dr SUV,23,20,1385,51970
+Chevrolet,Tahoe Hybrid,2013,regular unleaded,332,8,AUTOMATIC,four wheel drive,4,"Luxury,Hybrid",Large,4dr SUV,23,20,1385,56425
+Chevrolet,Tahoe Hybrid,2013,regular unleaded,332,8,AUTOMATIC,rear wheel drive,4,"Luxury,Hybrid",Large,4dr SUV,23,20,1385,53620
+Chevrolet,Tahoe Limited/Z71,2000,regular unleaded,255,8,AUTOMATIC,four wheel drive,4,,Large,4dr SUV,15,11,1385,3465
+Chevrolet,Tahoe Limited/Z71,2000,regular unleaded,255,8,AUTOMATIC,rear wheel drive,4,,Large,4dr SUV,16,12,1385,3413
+Chevrolet,Tahoe,2015,flex-fuel (unleaded/E85),355,8,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,4dr SUV,22,16,1385,54505
+Chevrolet,Tahoe,2015,flex-fuel (unleaded/E85),355,8,AUTOMATIC,rear wheel drive,4,"Flex Fuel,Performance",Large,4dr SUV,23,16,1385,61085
+Chevrolet,Tahoe,2015,flex-fuel (unleaded/E85),355,8,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,4dr SUV,22,16,1385,49300
+Chevrolet,Tahoe,2015,flex-fuel (unleaded/E85),355,8,AUTOMATIC,rear wheel drive,4,Flex Fuel,Large,4dr SUV,23,16,1385,46300
+Chevrolet,Tahoe,2015,flex-fuel (unleaded/E85),355,8,AUTOMATIC,rear wheel drive,4,Flex Fuel,Large,4dr SUV,23,16,1385,51505
+Chevrolet,Tahoe,2015,flex-fuel (unleaded/E85),355,8,AUTOMATIC,four wheel drive,4,"Flex Fuel,Performance",Large,4dr SUV,22,16,1385,64085
+Chevrolet,Tahoe,2016,flex-fuel (unleaded/E85),355,8,AUTOMATIC,four wheel drive,4,"Flex Fuel,Performance",Large,4dr SUV,22,16,1385,64740
+Chevrolet,Tahoe,2016,flex-fuel (unleaded/E85),355,8,AUTOMATIC,rear wheel drive,4,Flex Fuel,Large,4dr SUV,23,16,1385,47000
+Chevrolet,Tahoe,2016,flex-fuel (unleaded/E85),355,8,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,4dr SUV,22,16,1385,55030
+Chevrolet,Tahoe,2016,flex-fuel (unleaded/E85),355,8,AUTOMATIC,rear wheel drive,4,Flex Fuel,Large,4dr SUV,23,16,1385,52030
+Chevrolet,Tahoe,2016,flex-fuel (unleaded/E85),355,8,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,4dr SUV,22,16,1385,50000
+Chevrolet,Tahoe,2016,flex-fuel (unleaded/E85),355,8,AUTOMATIC,rear wheel drive,4,"Flex Fuel,Performance",Large,4dr SUV,23,16,1385,61740
+Chevrolet,Tahoe,2017,flex-fuel (unleaded/E85),355,8,AUTOMATIC,four wheel drive,4,"Flex Fuel,Performance",Large,4dr SUV,22,16,1385,50215
+Chevrolet,Tahoe,2017,flex-fuel (unleaded/E85),355,8,AUTOMATIC,four wheel drive,4,"Flex Fuel,Performance",Large,4dr SUV,22,16,1385,55345
+Chevrolet,Tahoe,2017,flex-fuel (unleaded/E85),355,8,AUTOMATIC,rear wheel drive,4,"Flex Fuel,Performance",Large,4dr SUV,23,16,1385,47215
+Chevrolet,Tahoe,2017,flex-fuel (unleaded/E85),355,8,AUTOMATIC,rear wheel drive,4,"Flex Fuel,Performance",Large,4dr SUV,23,16,1385,62030
+Chevrolet,Tahoe,2017,flex-fuel (unleaded/E85),355,8,AUTOMATIC,rear wheel drive,4,"Flex Fuel,Performance",Large,4dr SUV,23,16,1385,52345
+Chevrolet,Tahoe,2017,flex-fuel (unleaded/E85),355,8,AUTOMATIC,four wheel drive,4,"Flex Fuel,Performance",Large,4dr SUV,22,16,1385,65030
+Chevrolet,Tracker,2002,regular unleaded,127,4,MANUAL,four wheel drive,2,,Compact,Convertible SUV,23,20,1385,19060
+Chevrolet,Tracker,2002,regular unleaded,127,4,MANUAL,rear wheel drive,4,,Compact,4dr SUV,24,20,1385,16790
+Chevrolet,Tracker,2002,regular unleaded,127,4,MANUAL,four wheel drive,4,,Compact,4dr SUV,23,20,1385,17890
+Chevrolet,Tracker,2002,regular unleaded,155,6,AUTOMATIC,four wheel drive,4,,Compact,4dr SUV,19,16,1385,21510
+Chevrolet,Tracker,2002,regular unleaded,127,4,MANUAL,four wheel drive,2,,Compact,Convertible SUV,23,20,1385,17200
+Chevrolet,Tracker,2002,regular unleaded,155,6,AUTOMATIC,four wheel drive,4,,Compact,4dr SUV,19,16,1385,21935
+Chevrolet,Tracker,2002,regular unleaded,127,4,MANUAL,rear wheel drive,2,,Compact,Convertible SUV,24,20,1385,16100
+Chevrolet,Tracker,2002,regular unleaded,155,6,AUTOMATIC,rear wheel drive,4,,Compact,4dr SUV,19,17,1385,20835
+Chevrolet,Tracker,2003,regular unleaded,165,6,AUTOMATIC,four wheel drive,4,,Compact,4dr SUV,19,16,1385,22530
+Chevrolet,Tracker,2003,regular unleaded,165,6,AUTOMATIC,rear wheel drive,4,,Compact,4dr SUV,19,17,1385,21430
+Chevrolet,Tracker,2003,regular unleaded,127,4,MANUAL,four wheel drive,2,,Compact,Convertible SUV,23,20,1385,17730
+Chevrolet,Tracker,2003,regular unleaded,127,4,MANUAL,rear wheel drive,2,,Compact,Convertible SUV,24,20,1385,16630
+Chevrolet,Tracker,2003,regular unleaded,127,4,MANUAL,rear wheel drive,4,,Compact,4dr SUV,24,20,1385,17330
+Chevrolet,Tracker,2003,regular unleaded,127,4,MANUAL,four wheel drive,4,,Compact,4dr SUV,23,20,1385,18430
+Chevrolet,Tracker,2003,regular unleaded,165,6,AUTOMATIC,four wheel drive,4,,Compact,4dr SUV,19,16,1385,22130
+Chevrolet,Tracker,2003,regular unleaded,127,4,MANUAL,four wheel drive,2,,Compact,Convertible SUV,23,20,1385,19580
+Chevrolet,Tracker,2004,regular unleaded,165,6,AUTOMATIC,four wheel drive,4,,Compact,4dr SUV,20,17,1385,22315
+Chevrolet,Tracker,2004,regular unleaded,165,6,AUTOMATIC,four wheel drive,4,,Compact,4dr SUV,20,17,1385,22715
+Chevrolet,Tracker,2004,regular unleaded,165,6,AUTOMATIC,rear wheel drive,4,,Compact,4dr SUV,20,17,1385,21615
+Chevrolet,Tracker,2004,regular unleaded,165,6,AUTOMATIC,rear wheel drive,4,,Compact,4dr SUV,20,17,1385,19865
+Chevrolet,Tracker,2004,regular unleaded,165,6,AUTOMATIC,four wheel drive,4,,Compact,4dr SUV,20,17,1385,20965
+Chevrolet,TrailBlazer EXT,2004,regular unleaded,275,6,AUTOMATIC,four wheel drive,4,,Large,4dr SUV,19,14,1385,32320
+Chevrolet,TrailBlazer EXT,2004,regular unleaded,275,6,AUTOMATIC,four wheel drive,4,,Large,4dr SUV,19,14,1385,34220
+Chevrolet,TrailBlazer EXT,2004,regular unleaded,275,6,AUTOMATIC,rear wheel drive,4,,Large,4dr SUV,18,13,1385,30070
+Chevrolet,TrailBlazer EXT,2004,regular unleaded,275,6,AUTOMATIC,rear wheel drive,4,,Large,4dr SUV,18,13,1385,31970
+Chevrolet,TrailBlazer EXT,2005,regular unleaded,275,6,AUTOMATIC,four wheel drive,4,,Large,4dr SUV,17,12,1385,32515
+Chevrolet,TrailBlazer EXT,2005,regular unleaded,275,6,AUTOMATIC,rear wheel drive,4,,Large,4dr SUV,18,13,1385,30265
+Chevrolet,TrailBlazer EXT,2005,regular unleaded,275,6,AUTOMATIC,four wheel drive,4,,Large,4dr SUV,17,12,1385,30335
+Chevrolet,TrailBlazer EXT,2005,regular unleaded,275,6,AUTOMATIC,rear wheel drive,4,,Large,4dr SUV,18,13,1385,28085
+Chevrolet,TrailBlazer EXT,2006,regular unleaded,291,6,AUTOMATIC,rear wheel drive,4,,Large,4dr SUV,19,14,1385,27980
+Chevrolet,TrailBlazer EXT,2006,regular unleaded,291,6,AUTOMATIC,four wheel drive,4,,Large,4dr SUV,19,14,1385,30230
+Chevrolet,TrailBlazer EXT,2006,regular unleaded,291,6,AUTOMATIC,four wheel drive,4,,Large,4dr SUV,19,14,1385,28130
+Chevrolet,TrailBlazer EXT,2006,regular unleaded,291,6,AUTOMATIC,rear wheel drive,4,,Large,4dr SUV,19,14,1385,25880
+Chevrolet,TrailBlazer,2007,regular unleaded,291,6,AUTOMATIC,rear wheel drive,4,,Midsize,4dr SUV,20,14,1385,25045
+Chevrolet,TrailBlazer,2007,premium unleaded (required),395,8,AUTOMATIC,rear wheel drive,4,"Factory Tuner,Performance",Midsize,4dr SUV,17,13,1385,34885
+Chevrolet,TrailBlazer,2007,premium unleaded (required),395,8,AUTOMATIC,all wheel drive,4,"Factory Tuner,Performance",Midsize,4dr SUV,16,12,1385,33620
+Chevrolet,TrailBlazer,2007,regular unleaded,291,6,AUTOMATIC,four wheel drive,4,,Midsize,4dr SUV,20,14,1385,27340
+Chevrolet,TrailBlazer,2007,premium unleaded (required),395,8,AUTOMATIC,all wheel drive,4,"Factory Tuner,Performance",Midsize,4dr SUV,16,12,1385,37125
+Chevrolet,TrailBlazer,2007,premium unleaded (required),395,8,AUTOMATIC,rear wheel drive,4,"Factory Tuner,Performance",Midsize,4dr SUV,17,13,1385,31320
+Chevrolet,TrailBlazer,2007,regular unleaded,291,6,AUTOMATIC,rear wheel drive,4,,Midsize,4dr SUV,20,14,1385,27970
+Chevrolet,TrailBlazer,2007,regular unleaded,291,6,AUTOMATIC,four wheel drive,4,,Midsize,4dr SUV,20,14,1385,30210
+Chevrolet,TrailBlazer,2008,regular unleaded,285,6,AUTOMATIC,rear wheel drive,4,,Midsize,4dr SUV,20,14,1385,26390
+Chevrolet,TrailBlazer,2008,regular unleaded,285,6,AUTOMATIC,four wheel drive,4,,Midsize,4dr SUV,20,14,1385,28525
+Chevrolet,TrailBlazer,2008,regular unleaded,285,6,AUTOMATIC,four wheel drive,4,,Midsize,4dr SUV,20,14,1385,29880
+Chevrolet,TrailBlazer,2008,regular unleaded,285,6,AUTOMATIC,four wheel drive,4,,Midsize,4dr SUV,20,14,1385,29535
+Chevrolet,TrailBlazer,2008,regular unleaded,285,6,AUTOMATIC,rear wheel drive,4,,Midsize,4dr SUV,20,14,1385,27745
+Chevrolet,TrailBlazer,2008,regular unleaded,285,6,AUTOMATIC,four wheel drive,4,,Midsize,4dr SUV,20,14,1385,31910
+Chevrolet,TrailBlazer,2008,premium unleaded (required),390,8,AUTOMATIC,rear wheel drive,4,"Factory Tuner,Performance",Midsize,4dr SUV,16,12,1385,32155
+Chevrolet,TrailBlazer,2008,regular unleaded,285,6,AUTOMATIC,rear wheel drive,4,,Midsize,4dr SUV,20,14,1385,31810
+Chevrolet,TrailBlazer,2008,premium unleaded (required),390,8,AUTOMATIC,all wheel drive,4,"Factory Tuner,Performance",Midsize,4dr SUV,16,12,1385,34290
+Chevrolet,TrailBlazer,2008,premium unleaded (required),390,8,AUTOMATIC,all wheel drive,4,"Factory Tuner,Performance",Midsize,4dr SUV,16,12,1385,37725
+Chevrolet,TrailBlazer,2008,regular unleaded,285,6,AUTOMATIC,rear wheel drive,4,,Midsize,4dr SUV,20,14,1385,27400
+Chevrolet,TrailBlazer,2008,premium unleaded (required),390,8,AUTOMATIC,rear wheel drive,4,"Factory Tuner,Performance",Midsize,4dr SUV,16,12,1385,35590
+Chevrolet,TrailBlazer,2008,regular unleaded,285,6,AUTOMATIC,four wheel drive,4,,Midsize,4dr SUV,20,14,1385,33945
+Chevrolet,TrailBlazer,2008,regular unleaded,285,6,AUTOMATIC,rear wheel drive,4,,Midsize,4dr SUV,20,14,1385,29780
+Chevrolet,TrailBlazer,2009,regular unleaded,285,6,AUTOMATIC,four wheel drive,4,,Midsize,4dr SUV,20,14,1385,35770
+Chevrolet,TrailBlazer,2009,regular unleaded,285,6,AUTOMATIC,four wheel drive,4,,Midsize,4dr SUV,20,14,1385,31330
+Chevrolet,TrailBlazer,2009,premium unleaded (recommended),390,8,AUTOMATIC,all wheel drive,4,"Factory Tuner,Performance",Midsize,4dr SUV,16,12,1385,39330
+Chevrolet,TrailBlazer,2009,regular unleaded,285,6,AUTOMATIC,rear wheel drive,4,,Midsize,4dr SUV,20,14,1385,31275
+Chevrolet,TrailBlazer,2009,regular unleaded,285,6,AUTOMATIC,rear wheel drive,4,,Midsize,4dr SUV,20,14,1385,33595
+Chevrolet,TrailBlazer,2009,premium unleaded (recommended),390,8,AUTOMATIC,rear wheel drive,4,"Factory Tuner,Performance",Midsize,4dr SUV,16,12,1385,37195
+Chevrolet,TrailBlazer,2009,regular unleaded,285,6,AUTOMATIC,four wheel drive,4,,Midsize,4dr SUV,20,14,1385,33445
+Chevrolet,TrailBlazer,2009,regular unleaded,285,6,AUTOMATIC,rear wheel drive,4,,Midsize,4dr SUV,20,14,1385,29155
+Chevrolet,Traverse,2015,regular unleaded,288,6,AUTOMATIC,all wheel drive,4,Crossover,Midsize,4dr SUV,23,16,1385,43935
+Chevrolet,Traverse,2015,regular unleaded,281,6,AUTOMATIC,front wheel drive,4,Crossover,Midsize,4dr SUV,24,17,1385,30995
+Chevrolet,Traverse,2015,regular unleaded,281,6,AUTOMATIC,all wheel drive,4,Crossover,Midsize,4dr SUV,23,16,1385,38295
+Chevrolet,Traverse,2015,regular unleaded,281,6,AUTOMATIC,all wheel drive,4,Crossover,Midsize,4dr SUV,23,16,1385,32995
+Chevrolet,Traverse,2015,regular unleaded,281,6,AUTOMATIC,front wheel drive,4,Crossover,Midsize,4dr SUV,24,17,1385,33795
+Chevrolet,Traverse,2015,regular unleaded,281,6,AUTOMATIC,all wheel drive,4,Crossover,Midsize,4dr SUV,23,16,1385,35795
+Chevrolet,Traverse,2015,regular unleaded,281,6,AUTOMATIC,front wheel drive,4,Crossover,Midsize,4dr SUV,24,17,1385,36295
+Chevrolet,Traverse,2015,regular unleaded,288,6,AUTOMATIC,front wheel drive,4,Crossover,Midsize,4dr SUV,24,17,1385,41935
+Chevrolet,Traverse,2016,regular unleaded,288,6,AUTOMATIC,all wheel drive,4,Crossover,Midsize,4dr SUV,22,15,1385,44145
+Chevrolet,Traverse,2016,regular unleaded,281,6,AUTOMATIC,front wheel drive,4,Crossover,Midsize,4dr SUV,22,15,1385,34005
+Chevrolet,Traverse,2016,regular unleaded,288,6,AUTOMATIC,front wheel drive,4,Crossover,Midsize,4dr SUV,22,15,1385,42145
+Chevrolet,Traverse,2016,regular unleaded,281,6,AUTOMATIC,front wheel drive,4,Crossover,Midsize,4dr SUV,22,15,1385,28700
+Chevrolet,Traverse,2016,regular unleaded,281,6,AUTOMATIC,front wheel drive,4,Crossover,Midsize,4dr SUV,22,15,1385,36505
+Chevrolet,Traverse,2016,regular unleaded,281,6,AUTOMATIC,all wheel drive,4,Crossover,Midsize,4dr SUV,22,15,1385,38505
+Chevrolet,Traverse,2016,regular unleaded,281,6,AUTOMATIC,front wheel drive,4,Crossover,Midsize,4dr SUV,22,15,1385,31205
+Chevrolet,Traverse,2016,regular unleaded,281,6,AUTOMATIC,all wheel drive,4,Crossover,Midsize,4dr SUV,22,15,1385,36005
+Chevrolet,Traverse,2016,regular unleaded,281,6,AUTOMATIC,all wheel drive,4,Crossover,Midsize,4dr SUV,22,15,1385,33205
+Chevrolet,Traverse,2017,regular unleaded,281,6,AUTOMATIC,all wheel drive,4,Crossover,Midsize,4dr SUV,22,15,1385,38650
+Chevrolet,Traverse,2017,regular unleaded,281,6,AUTOMATIC,front wheel drive,4,Crossover,Midsize,4dr SUV,22,15,1385,28700
+Chevrolet,Traverse,2017,regular unleaded,281,6,AUTOMATIC,front wheel drive,4,Crossover,Midsize,4dr SUV,22,15,1385,34100
+Chevrolet,Traverse,2017,regular unleaded,281,6,AUTOMATIC,front wheel drive,4,Crossover,Midsize,4dr SUV,22,15,1385,31300
+Chevrolet,Traverse,2017,regular unleaded,288,6,AUTOMATIC,all wheel drive,4,Crossover,Midsize,4dr SUV,22,15,1385,44045
+Chevrolet,Traverse,2017,regular unleaded,281,6,AUTOMATIC,all wheel drive,4,Crossover,Midsize,4dr SUV,22,15,1385,33300
+Chevrolet,Traverse,2017,regular unleaded,281,6,AUTOMATIC,all wheel drive,4,Crossover,Midsize,4dr SUV,22,15,1385,36100
+Chevrolet,Traverse,2017,regular unleaded,281,6,AUTOMATIC,front wheel drive,4,Crossover,Midsize,4dr SUV,22,15,1385,36650
+Chevrolet,Traverse,2017,regular unleaded,288,6,AUTOMATIC,front wheel drive,4,Crossover,Midsize,4dr SUV,22,15,1385,42045
+Chevrolet,Trax,2015,regular unleaded,138,4,AUTOMATIC,front wheel drive,4,Crossover,Compact,4dr SUV,34,26,1385,25030
+Chevrolet,Trax,2015,regular unleaded,138,4,AUTOMATIC,all wheel drive,4,Crossover,Compact,4dr SUV,31,24,1385,26530
+Chevrolet,Trax,2015,regular unleaded,138,4,AUTOMATIC,all wheel drive,4,Crossover,Compact,4dr SUV,31,24,1385,23945
+Chevrolet,Trax,2015,regular unleaded,138,4,AUTOMATIC,front wheel drive,4,Crossover,Compact,4dr SUV,34,26,1385,20120
+Chevrolet,Trax,2015,regular unleaded,138,4,AUTOMATIC,all wheel drive,4,Crossover,Compact,4dr SUV,31,24,1385,21620
+Chevrolet,Trax,2015,regular unleaded,138,4,AUTOMATIC,front wheel drive,4,Crossover,Compact,4dr SUV,34,26,1385,22445
+Chevrolet,Trax,2015,regular unleaded,138,4,AUTOMATIC,front wheel drive,4,Crossover,Compact,4dr SUV,34,26,1385,20040
+Chevrolet,Trax,2015,regular unleaded,138,4,AUTOMATIC,all wheel drive,4,Crossover,Compact,4dr SUV,31,24,1385,21540
+Chevrolet,Trax,2016,regular unleaded,138,4,AUTOMATIC,all wheel drive,4,Crossover,Compact,4dr SUV,31,24,1385,24145
+Chevrolet,Trax,2016,regular unleaded,138,4,AUTOMATIC,all wheel drive,4,Crossover,Compact,4dr SUV,31,24,1385,21800
+Chevrolet,Trax,2016,regular unleaded,138,4,AUTOMATIC,front wheel drive,4,Crossover,Compact,4dr SUV,34,26,1385,25230
+Chevrolet,Trax,2016,regular unleaded,138,4,AUTOMATIC,all wheel drive,4,Crossover,Compact,4dr SUV,31,24,1385,26730
+Chevrolet,Trax,2016,regular unleaded,138,4,AUTOMATIC,front wheel drive,4,Crossover,Compact,4dr SUV,34,26,1385,20300
+Chevrolet,Trax,2016,regular unleaded,138,4,AUTOMATIC,front wheel drive,4,Crossover,Compact,4dr SUV,34,26,1385,22645
+Chevrolet,Trax,2016,regular unleaded,138,4,AUTOMATIC,all wheel drive,4,Crossover,Compact,4dr SUV,31,24,1385,21800
+Chevrolet,Trax,2016,regular unleaded,138,4,AUTOMATIC,front wheel drive,4,Crossover,Compact,4dr SUV,34,26,1385,20300
+Chevrolet,Trax,2017,regular unleaded,138,4,AUTOMATIC,all wheel drive,4,Crossover,Compact,4dr SUV,30,24,1385,24400
+Chevrolet,Trax,2017,regular unleaded,138,4,AUTOMATIC,front wheel drive,4,Crossover,Compact,4dr SUV,33,25,1385,26100
+Chevrolet,Trax,2017,regular unleaded,138,4,AUTOMATIC,all wheel drive,4,Crossover,Compact,4dr SUV,30,24,1385,27600
+Chevrolet,Trax,2017,regular unleaded,138,4,AUTOMATIC,front wheel drive,4,Crossover,Compact,4dr SUV,33,25,1385,22900
+Chevrolet,Trax,2017,regular unleaded,138,4,AUTOMATIC,all wheel drive,4,Crossover,Compact,4dr SUV,30,24,1385,22500
+Chevrolet,Trax,2017,regular unleaded,138,4,AUTOMATIC,front wheel drive,4,Crossover,Compact,4dr SUV,33,25,1385,21000
+Chevrolet,Uplander,2006,regular unleaded,201,6,AUTOMATIC,front wheel drive,4,,Midsize,Passenger Minivan,23,16,1385,22750
+Chevrolet,Uplander,2006,regular unleaded,201,6,AUTOMATIC,front wheel drive,4,,Midsize,Passenger Minivan,23,16,1385,22750
+Chevrolet,Uplander,2006,regular unleaded,201,6,AUTOMATIC,front wheel drive,4,,Midsize,Passenger Minivan,23,16,1385,28250
+Chevrolet,Uplander,2006,regular unleaded,201,6,AUTOMATIC,front wheel drive,4,,Midsize,Passenger Minivan,23,16,1385,26250
+Chevrolet,Uplander,2006,regular unleaded,201,6,AUTOMATIC,front wheel drive,4,,Compact,Passenger Minivan,23,16,1385,19250
+Chevrolet,Uplander,2006,regular unleaded,201,6,AUTOMATIC,front wheel drive,4,,Compact,Passenger Minivan,23,16,1385,19250
+Chevrolet,Uplander,2006,regular unleaded,201,6,AUTOMATIC,front wheel drive,4,,Midsize,Cargo Minivan,23,16,1385,21150
+Chevrolet,Uplander,2006,regular unleaded,201,6,AUTOMATIC,front wheel drive,4,,Midsize,Passenger Minivan,23,16,1385,30250
+Chevrolet,Uplander,2006,regular unleaded,196,6,AUTOMATIC,all wheel drive,4,,Midsize,Passenger Minivan,21,15,1385,33250
+Chevrolet,Uplander,2007,regular unleaded,240,6,AUTOMATIC,front wheel drive,4,Flex Fuel,Compact,Passenger Minivan,23,16,1385,20205
+Chevrolet,Uplander,2007,regular unleaded,240,6,AUTOMATIC,front wheel drive,4,Flex Fuel,Midsize,Cargo Minivan,23,16,1385,22105
+Chevrolet,Uplander,2007,regular unleaded,240,6,AUTOMATIC,front wheel drive,4,Flex Fuel,Midsize,Passenger Minivan,23,16,1385,23280
+Chevrolet,Uplander,2007,regular unleaded,240,6,AUTOMATIC,front wheel drive,4,Flex Fuel,Midsize,Passenger Minivan,23,16,1385,23280
+Chevrolet,Uplander,2007,regular unleaded,240,6,AUTOMATIC,front wheel drive,4,Flex Fuel,Midsize,Passenger Minivan,23,16,1385,27405
+Chevrolet,Uplander,2007,regular unleaded,240,6,AUTOMATIC,front wheel drive,4,Flex Fuel,Midsize,Passenger Minivan,23,16,1385,33050
+Chevrolet,Uplander,2007,regular unleaded,240,6,AUTOMATIC,front wheel drive,4,Flex Fuel,Midsize,Passenger Minivan,23,16,1385,29350
+Chevrolet,Uplander,2007,regular unleaded,240,6,AUTOMATIC,front wheel drive,4,Flex Fuel,Compact,Passenger Minivan,23,16,1385,20205
+Chevrolet,Uplander,2008,regular unleaded,240,6,AUTOMATIC,front wheel drive,4,Flex Fuel,Compact,Passenger Minivan,23,16,1385,21540
+Chevrolet,Uplander,2008,regular unleaded,240,6,AUTOMATIC,front wheel drive,4,Flex Fuel,Compact,Passenger Minivan,23,16,1385,21540
+Chevrolet,Uplander,2008,regular unleaded,240,6,AUTOMATIC,front wheel drive,4,Flex Fuel,Midsize,Passenger Minivan,23,16,1385,24250
+Chevrolet,Uplander,2008,regular unleaded,240,6,AUTOMATIC,front wheel drive,4,Flex Fuel,Midsize,Cargo Minivan,23,16,1385,23080
+Chevrolet,Uplander,2008,regular unleaded,240,6,AUTOMATIC,front wheel drive,4,Flex Fuel,Midsize,Passenger Minivan,23,16,1385,29330
+Chevrolet,Uplander,2008,regular unleaded,240,6,AUTOMATIC,front wheel drive,4,Flex Fuel,Midsize,Passenger Minivan,23,16,1385,24250
+Chevrolet,Venture,2003,regular unleaded,185,6,AUTOMATIC,all wheel drive,4,,Midsize,Passenger Minivan,22,16,1385,31790
+Chevrolet,Venture,2003,regular unleaded,185,6,AUTOMATIC,all wheel drive,4,,Midsize,Passenger Minivan,22,16,1385,33790
+Chevrolet,Venture,2003,regular unleaded,185,6,AUTOMATIC,front wheel drive,4,,Midsize,Passenger Minivan,24,17,1385,24040
+Chevrolet,Venture,2003,regular unleaded,185,6,AUTOMATIC,front wheel drive,4,,Midsize,Passenger Minivan,24,17,1385,26340
+Chevrolet,Venture,2003,regular unleaded,185,6,AUTOMATIC,front wheel drive,4,,Midsize,Cargo Minivan,24,17,1385,22440
+Chevrolet,Venture,2003,regular unleaded,185,6,AUTOMATIC,all wheel drive,4,,Midsize,Passenger Minivan,22,16,1385,29740
+Chevrolet,Venture,2003,regular unleaded,185,6,AUTOMATIC,front wheel drive,4,,Compact,Passenger Minivan,24,17,1385,21365
+Chevrolet,Venture,2003,regular unleaded,185,6,AUTOMATIC,front wheel drive,4,,Compact,Passenger Minivan,24,17,1385,22465
+Chevrolet,Venture,2003,regular unleaded,185,6,AUTOMATIC,front wheel drive,4,,Midsize,Passenger Minivan,24,17,1385,31490
+Chevrolet,Venture,2003,regular unleaded,185,6,AUTOMATIC,front wheel drive,4,,Compact,Passenger Minivan,24,17,1385,25165
+Chevrolet,Venture,2003,regular unleaded,185,6,AUTOMATIC,front wheel drive,4,,Midsize,Passenger Minivan,24,17,1385,29240
+Chevrolet,Venture,2003,regular unleaded,185,6,AUTOMATIC,front wheel drive,4,,Midsize,Passenger Minivan,24,17,1385,30240
+Chevrolet,Venture,2004,regular unleaded,185,6,AUTOMATIC,front wheel drive,4,,Midsize,Passenger Minivan,24,17,1385,30575
+Chevrolet,Venture,2004,regular unleaded,185,6,AUTOMATIC,all wheel drive,4,,Midsize,Passenger Minivan,22,16,1385,33625
+Chevrolet,Venture,2004,regular unleaded,185,6,AUTOMATIC,front wheel drive,4,,Midsize,Passenger Minivan,24,17,1385,26675
+Chevrolet,Venture,2004,regular unleaded,185,6,AUTOMATIC,front wheel drive,4,,Midsize,Cargo Minivan,24,17,1385,22600
+Chevrolet,Venture,2004,regular unleaded,185,6,AUTOMATIC,front wheel drive,4,,Compact,Passenger Minivan,24,17,1385,21475
+Chevrolet,Venture,2004,regular unleaded,185,6,AUTOMATIC,front wheel drive,4,,Midsize,Passenger Minivan,24,17,1385,23225
+Chevrolet,Venture,2005,regular unleaded,185,6,AUTOMATIC,front wheel drive,4,,Midsize,Passenger Minivan,24,17,1385,30760
+Chevrolet,Venture,2005,regular unleaded,185,6,AUTOMATIC,front wheel drive,4,,Midsize,Cargo Minivan,24,17,1385,23165
+Chevrolet,Venture,2005,regular unleaded,185,6,AUTOMATIC,front wheel drive,4,,Midsize,Passenger Minivan,24,17,1385,26835
+Chevrolet,Venture,2005,regular unleaded,185,6,AUTOMATIC,front wheel drive,4,,Midsize,Passenger Minivan,24,17,1385,23365
